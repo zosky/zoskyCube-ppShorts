@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-04 - Clockwork Necromancer: The Arcane Journey](https://shorts.zoskycube.com/pixelPower/shorts/3Y4FjhZayENA8YEeB2G8/banner.png)](https://zoskycube.com/pixelPower/session?id=3Y4FjhZayENA8YEeB2G8)
 [![2026-06-03 - Hacker's Paradise: A Galactic Escape](https://shorts.zoskycube.com/pixelPower/shorts/8pORDw68MUjCQftmNcxq/banner.png)](https://zoskycube.com/pixelPower/session?id=8pORDw68MUjCQftmNcxq)
 [![2026-06-03 - Cyber-Shaman: Biohazard Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/ozbgETtz5AarkOcBqE9J/banner.png)](https://zoskycube.com/pixelPower/session?id=ozbgETtz5AarkOcBqE9J)
 [![2026-06-02 - Arcane Alchemist: A City's Secret Hero](https://shorts.zoskycube.com/pixelPower/shorts/1yQz5ZivW4BTxut19Ox0/banner.png)](https://zoskycube.com/pixelPower/session?id=1yQz5ZivW4BTxut19Ox0)
