@@ -1,2 +1,12 @@
 # zoskyCube-ppShorts
-Archive storage for zoskyCube PixelPower SHORTS, served via GitHub Pages
+Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served here with GitHub Pages (and made awesome at [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/)
+
+[![2026-05-31 - Silver Cloak's Quest: Malachite Echoes](https://shorts.zoskycube.com/pixelPower/shorts/8xG1qEtOHmx2nA1P56LI/banner.png)](https://zoskycube.com/pixelPower/session?id=8xG1qEtOHmx2nA1P56LI)
+[![2026-05-31 - The Reaper's Echo: A Skydiving Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/VmlZu4WvEuKzYr2hslD2/banner.png)](https://zoskycube.com/pixelPower/session?id=VmlZu4WvEuKzYr2hslD2)
+[![2026-05-31 - Unallied. Unleashed. Unbroken.](https://shorts.zoskycube.com/pixelPower/shorts/MbozZFK4Gksvf4NMtaHz/banner.png)](https://zoskycube.com/pixelPower/session?id=MbozZFK4Gksvf4NMtaHz)
+[![2026-06-01 - Whiskey, Wargames, and Hidden Jackpots](https://shorts.zoskycube.com/pixelPower/shorts/X5o9pTyuiEcFoWTuUYUl/banner.png)](https://zoskycube.com/pixelPower/session?id=X5o9pTyuiEcFoWTuUYUl)
+[![2026-06-01 - Chrono-Wanderer: Fate's Immersive Shift](https://shorts.zoskycube.com/pixelPower/shorts/igIocO1BHQLM6a5LLwwr/banner.png)](https://zoskycube.com/pixelPower/session?id=igIocO1BHQLM6a5LLwwr)
+[![2026-06-02 - Whispers in the Vine: A Deepfake Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/LtOg7TNNW9UoFABVzFMA/banner.png)](https://zoskycube.com/pixelPower/session?id=LtOg7TNNW9UoFABVzFMA)
+[![2026-06-02 - Arcane Alchemist: A City's Secret Hero](https://shorts.zoskycube.com/pixelPower/shorts/1yQz5ZivW4BTxut19Ox0/banner.png)](https://zoskycube.com/pixelPower/session?id=1yQz5ZivW4BTxut19Ox0)
+[![2026-06-03 - Cyber-Shaman: Biohazard Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/ozbgETtz5AarkOcBqE9J/banner.png)](https://zoskycube.com/pixelPower/session?id=ozbgETtz5AarkOcBqE9J)
+[![2026-06-03 - Hacker's Paradise: A Galactic Escape](https://shorts.zoskycube.com/pixelPower/shorts/8pORDw68MUjCQftmNcxq/banner.png)](https://zoskycube.com/pixelPower/session?id=8pORDw68MUjCQftmNcxq)
