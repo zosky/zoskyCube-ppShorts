@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-06 - The Weaver's Gambit: A Cinematic Short](https://shorts.zoskycube.com/pixelPower/shorts/jLPYwdOUgfAo1oKDsdL9/banner.png)](https://zoskycube.com/pixelPower/session?id=jLPYwdOUgfAo1oKDsdL9)
 [![2026-06-06 - Crimson Circuit: A Nomad's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/zdjTaFkg3z1s1xG5EXRK/banner.png)](https://zoskycube.com/pixelPower/session?id=zdjTaFkg3z1s1xG5EXRK)
 [![2026-06-05 - From Nightshade to Newlyweds: An Epic Journey](https://shorts.zoskycube.com/pixelPower/shorts/UgsXNhWwcOcEMd884fBj/banner.png)](https://zoskycube.com/pixelPower/session?id=UgsXNhWwcOcEMd884fBj)
 [![2026-06-04 - The Shard Cloak's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/zd8OCbxICmJtmB0ZUOqP/banner.png)](https://zoskycube.com/pixelPower/session?id=zd8OCbxICmJtmB0ZUOqP)
