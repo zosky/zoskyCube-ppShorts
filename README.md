@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-07 - The Scarf of Stars: Unveiling Reality](https://shorts.zoskycube.com/pixelPower/shorts/KbUYOxNUB2QUzWkBwSbQ/banner.png)](https://zoskycube.com/pixelPower/session?id=KbUYOxNUB2QUzWkBwSbQ)
 [![2026-06-06 - Forbidden Relic: A Sci-Fi Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/JsLQhcZxo84r1jvK7DbI/banner.png)](https://zoskycube.com/pixelPower/session?id=JsLQhcZxo84r1jvK7DbI)
 [![2026-06-06 - The Weaver's Gambit: A Cinematic Short](https://shorts.zoskycube.com/pixelPower/shorts/jLPYwdOUgfAo1oKDsdL9/banner.png)](https://zoskycube.com/pixelPower/session?id=jLPYwdOUgfAo1oKDsdL9)
 [![2026-06-06 - Crimson Circuit: A Nomad's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/zdjTaFkg3z1s1xG5EXRK/banner.png)](https://zoskycube.com/pixelPower/session?id=zdjTaFkg3z1s1xG5EXRK)
