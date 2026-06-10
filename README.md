@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-10 - The Flawed Architect: A Cosmic Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/iRHn5kGEbO8YrkyaxD5d/banner.png)](https://zoskycube.com/pixelPower/session?id=iRHn5kGEbO8YrkyaxD5d)
 [![2026-06-10 - The Raven's Odyssey: A Cyberpunk Saga](https://shorts.zoskycube.com/pixelPower/shorts/edwyngVUbWO32eM18oPP/banner.png)](https://zoskycube.com/pixelPower/session?id=edwyngVUbWO32eM18oPP)
 [![2026-06-07 - The Scarf of Stars: Unveiling Reality](https://shorts.zoskycube.com/pixelPower/shorts/KbUYOxNUB2QUzWkBwSbQ/banner.png)](https://zoskycube.com/pixelPower/session?id=KbUYOxNUB2QUzWkBwSbQ)
 [![2026-06-06 - Forbidden Relic: A Sci-Fi Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/JsLQhcZxo84r1jvK7DbI/banner.png)](https://zoskycube.com/pixelPower/session?id=JsLQhcZxo84r1jvK7DbI)
