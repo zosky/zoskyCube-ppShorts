@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-10 - Cyberpunk Justice: Rogue's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/rKM5XFnNO2x5nc9DoRa7/banner.png)](https://zoskycube.com/pixelPower/session?id=rKM5XFnNO2x5nc9DoRa7)
 [![2026-06-10 - Emerald Eye: The Fall of the Oligarchy](https://shorts.zoskycube.com/pixelPower/shorts/IAe3agYP6ejx7Rs5DH6X/banner.png)](https://zoskycube.com/pixelPower/session?id=IAe3agYP6ejx7Rs5DH6X)
 [![2026-06-10 - The Flawed Architect: A Cosmic Odyssey](https://shorts.zoskycube.com/pixelPower/shorts/iRHn5kGEbO8YrkyaxD5d/banner.png)](https://zoskycube.com/pixelPower/session?id=iRHn5kGEbO8YrkyaxD5d)
 [![2026-06-10 - The Raven's Odyssey: A Cyberpunk Saga](https://shorts.zoskycube.com/pixelPower/shorts/edwyngVUbWO32eM18oPP/banner.png)](https://zoskycube.com/pixelPower/session?id=edwyngVUbWO32eM18oPP)
