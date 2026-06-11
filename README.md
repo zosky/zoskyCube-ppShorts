@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-11 - Whiteout Cavern: A New Transit](https://shorts.zoskycube.com/pixelPower/shorts/ZKjvt8MnAxKM2VhuOzxR/banner.png)](https://zoskycube.com/pixelPower/session?id=ZKjvt8MnAxKM2VhuOzxR)
 [![2026-06-10 - Cosmic Wanderer: Kingdom's Restoration](https://shorts.zoskycube.com/pixelPower/shorts/4UNImrU51KsRGqUON0mg/banner.png)](https://zoskycube.com/pixelPower/session?id=4UNImrU51KsRGqUON0mg)
 [![2026-06-10 - The Archivist's Forbidden History Hunt](https://shorts.zoskycube.com/pixelPower/shorts/bLcsG4sRCuaijVESxf0l/banner.png)](https://zoskycube.com/pixelPower/session?id=bLcsG4sRCuaijVESxf0l)
 [![2026-06-10 - Cyberpunk Justice: Rogue's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/rKM5XFnNO2x5nc9DoRa7/banner.png)](https://zoskycube.com/pixelPower/session?id=rKM5XFnNO2x5nc9DoRa7)
