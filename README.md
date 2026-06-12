@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-12 - Circuit Breaker: The Giraffe Rampage](https://shorts.zoskycube.com/pixelPower/shorts/NTARt3kPnGkz5gee9FLJ/banner.png)](https://zoskycube.com/pixelPower/session?id=NTARt3kPnGkz5gee9FLJ)
 [![2026-06-12 - Unification: The Kilowatt Finis](https://shorts.zoskycube.com/pixelPower/shorts/NTIgBpD8eOBPVpApoWQW/banner.png)](https://zoskycube.com/pixelPower/session?id=NTIgBpD8eOBPVpApoWQW)
 [![2026-06-11 - Rattle in the Ivy: A Cybernetic Discovery](https://shorts.zoskycube.com/pixelPower/shorts/vu4DmanVH3gmLHKPZQ0S/banner.png)](https://zoskycube.com/pixelPower/session?id=vu4DmanVH3gmLHKPZQ0S)
 [![2026-06-11 - Whiteout Cavern: A New Transit](https://shorts.zoskycube.com/pixelPower/shorts/ZKjvt8MnAxKM2VhuOzxR/banner.png)](https://zoskycube.com/pixelPower/session?id=ZKjvt8MnAxKM2VhuOzxR)
