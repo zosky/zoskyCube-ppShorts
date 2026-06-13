@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-13 - Jade Compass Mechanic Outsmarts Radiation](https://shorts.zoskycube.com/pixelPower/shorts/gUZSeF06RWf1Pn6i4pTT/banner.png)](https://zoskycube.com/pixelPower/session?id=gUZSeF06RWf1Pn6i4pTT)
 [![2026-06-13 - Typhoon's Shadow: An Orphan's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/7RvjuS0FUyn2VxyddI6k/banner.png)](https://zoskycube.com/pixelPower/session?id=7RvjuS0FUyn2VxyddI6k)
 [![2026-06-12 - Glacial Race: The Oxygen-Laced Traverse](https://shorts.zoskycube.com/pixelPower/shorts/cE5tZ4IQGTgIpoKL0Ant/banner.png)](https://zoskycube.com/pixelPower/session?id=cE5tZ4IQGTgIpoKL0Ant)
 [![2026-06-12 - Circuit Breaker: The Giraffe Rampage](https://shorts.zoskycube.com/pixelPower/shorts/NTARt3kPnGkz5gee9FLJ/banner.png)](https://zoskycube.com/pixelPower/session?id=NTARt3kPnGkz5gee9FLJ)
