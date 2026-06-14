@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-14 - Uncharted Flats: Phoenix's Revival](https://shorts.zoskycube.com/pixelPower/shorts/Uu5KsW9rSSMh0jkLZ47n/banner.png)](https://zoskycube.com/pixelPower/session?id=Uu5KsW9rSSMh0jkLZ47n)
 [![2026-06-14 - Gateway's Echo: The Brass Compass Story](https://shorts.zoskycube.com/pixelPower/shorts/DM2rCR0wrZk09q9vGHVo/banner.png)](https://zoskycube.com/pixelPower/session?id=DM2rCR0wrZk09q9vGHVo)
 [![2026-06-13 - Jade Compass Mechanic Outsmarts Radiation](https://shorts.zoskycube.com/pixelPower/shorts/gUZSeF06RWf1Pn6i4pTT/banner.png)](https://zoskycube.com/pixelPower/session?id=gUZSeF06RWf1Pn6i4pTT)
 [![2026-06-13 - Typhoon's Shadow: An Orphan's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/7RvjuS0FUyn2VxyddI6k/banner.png)](https://zoskycube.com/pixelPower/session?id=7RvjuS0FUyn2VxyddI6k)
