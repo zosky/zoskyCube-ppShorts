@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-15 - Platinum Braids Break Hysteresis](https://shorts.zoskycube.com/pixelPower/shorts/c9EQ9gYjCF2cc1Vu4NdB/banner.png)](https://zoskycube.com/pixelPower/session?id=c9EQ9gYjCF2cc1Vu4NdB)
 [![2026-06-15 - Desert Relic's Outrage, Empire's Fall](https://shorts.zoskycube.com/pixelPower/shorts/tOkqrWv6f7VNoCEd7E71/banner.png)](https://zoskycube.com/pixelPower/session?id=tOkqrWv6f7VNoCEd7E71)
 [![2026-06-15 - Tide-Jammed Academy: Jade Compass's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/cMi6Bnp9Es5iBW49U8Rw/banner.png)](https://zoskycube.com/pixelPower/session?id=cMi6Bnp9Es5iBW49U8Rw)
 [![2026-06-14 - Uncharted Flats: Phoenix's Revival](https://shorts.zoskycube.com/pixelPower/shorts/Uu5KsW9rSSMh0jkLZ47n/banner.png)](https://zoskycube.com/pixelPower/session?id=Uu5KsW9rSSMh0jkLZ47n)
