@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-17 - Mayday Echoes, Cyber Towers Rise](https://shorts.zoskycube.com/pixelPower/shorts/3PPgwjxPR6gqePhgsxjB/banner.png)](https://zoskycube.com/pixelPower/session?id=3PPgwjxPR6gqePhgsxjB)
 [![2026-06-17 - Mudbank Chains, Kraken's Knitted Cosplay](https://shorts.zoskycube.com/pixelPower/shorts/K26VSFsTZtTXatHqj9Fc/banner.png)](https://zoskycube.com/pixelPower/session?id=K26VSFsTZtTXatHqj9Fc)
 [![2026-06-17 - Rookery's Ruin, Runaway's Hope](https://shorts.zoskycube.com/pixelPower/shorts/x8HywCZ1M8t8VCXtB3if/banner.png)](https://zoskycube.com/pixelPower/session?id=x8HywCZ1M8t8VCXtB3if)
 [![2026-06-16 - Outback Mechanic: Cops, Clowns, & Coppery Explosives](https://shorts.zoskycube.com/pixelPower/shorts/Y5n5erykolLaQzMjv4pD/banner.png)](https://zoskycube.com/pixelPower/session?id=Y5n5erykolLaQzMjv4pD)
