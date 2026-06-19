@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-19 - Altering the Dreadnaught's Heart](https://shorts.zoskycube.com/pixelPower/shorts/ngzkmkiY9tr4Se5fugRM/banner.png)](https://zoskycube.com/pixelPower/session?id=ngzkmkiY9tr4Se5fugRM)
 [![2026-06-19 - The Mechanic's Virtual Lotus & Sunken Enzyme](https://shorts.zoskycube.com/pixelPower/shorts/37ukWkkDpUlsCBAY8Qxd/banner.png)](https://zoskycube.com/pixelPower/session?id=37ukWkkDpUlsCBAY8Qxd)
 [![2026-06-19 - Hovercraft, Cyberwars, Voodoo, Outpost](https://shorts.zoskycube.com/pixelPower/shorts/FojttOQtTEzNMBohLShY/banner.png)](https://zoskycube.com/pixelPower/session?id=FojttOQtTEzNMBohLShY)
 [![2026-06-18 - Vitrified Sky: Fjord's Secret Unfolds](https://shorts.zoskycube.com/pixelPower/shorts/GMDvD0nlHbnumhg0xWxt/banner.png)](https://zoskycube.com/pixelPower/session?id=GMDvD0nlHbnumhg0xWxt)
