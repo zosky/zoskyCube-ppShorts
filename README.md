@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-21 - Scarred Compass, Chipped Jawbreaker](https://shorts.zoskycube.com/pixelPower/shorts/yS1mVZtNTLPBgBjBG7UM/banner.png)](https://zoskycube.com/pixelPower/session?id=yS1mVZtNTLPBgBjBG7UM)
 [![2026-06-20 - Untidy Avalanche, Skyward Remap](https://shorts.zoskycube.com/pixelPower/shorts/8O9ktLimcptxB2BMP9Q0/banner.png)](https://zoskycube.com/pixelPower/session?id=8O9ktLimcptxB2BMP9Q0)
 [![2026-06-20 - Crashed Gyroscope, Skyjacked Secrets](https://shorts.zoskycube.com/pixelPower/shorts/O8vjzPyhYdZVsgb0xIXg/banner.png)](https://zoskycube.com/pixelPower/session?id=O8vjzPyhYdZVsgb0xIXg)
 [![2026-06-19 - Altering the Dreadnaught's Heart](https://shorts.zoskycube.com/pixelPower/shorts/ngzkmkiY9tr4Se5fugRM/banner.png)](https://zoskycube.com/pixelPower/session?id=ngzkmkiY9tr4Se5fugRM)
