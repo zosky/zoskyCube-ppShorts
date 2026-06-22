@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-22 - Ignition of the Sapphire Compass](https://shorts.zoskycube.com/pixelPower/shorts/c8XOtoDSRSyDo325rAnA/banner.png)](https://zoskycube.com/pixelPower/session?id=c8XOtoDSRSyDo325rAnA)
 [![2026-06-21 - Plaque, Missile, and an Evergreen Future](https://shorts.zoskycube.com/pixelPower/shorts/vfdC1RymhSMtvJfCWRUv/banner.png)](https://zoskycube.com/pixelPower/session?id=vfdC1RymhSMtvJfCWRUv)
 [![2026-06-21 - Scarred Compass, Chipped Jawbreaker](https://shorts.zoskycube.com/pixelPower/shorts/yS1mVZtNTLPBgBjBG7UM/banner.png)](https://zoskycube.com/pixelPower/session?id=yS1mVZtNTLPBgBjBG7UM)
 [![2026-06-20 - Untidy Avalanche, Skyward Remap](https://shorts.zoskycube.com/pixelPower/shorts/8O9ktLimcptxB2BMP9Q0/banner.png)](https://zoskycube.com/pixelPower/session?id=8O9ktLimcptxB2BMP9Q0)
