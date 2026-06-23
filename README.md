@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-23 - Dwarf's Midnight Wrench & Werewolf Howl](https://shorts.zoskycube.com/pixelPower/shorts/uLLdIudo899VOuthdeHr/banner.png)](https://zoskycube.com/pixelPower/session?id=uLLdIudo899VOuthdeHr)
 [![2026-06-22 - Junkyard Renegade: The Gearbox Gambit](https://shorts.zoskycube.com/pixelPower/shorts/ZHFyf6085cco5JWsZxRH/banner.png)](https://zoskycube.com/pixelPower/session?id=ZHFyf6085cco5JWsZxRH)
 [![2026-06-22 - Ignition of the Sapphire Compass](https://shorts.zoskycube.com/pixelPower/shorts/c8XOtoDSRSyDo325rAnA/banner.png)](https://zoskycube.com/pixelPower/session?id=c8XOtoDSRSyDo325rAnA)
 [![2026-06-21 - Plaque, Missile, and an Evergreen Future](https://shorts.zoskycube.com/pixelPower/shorts/vfdC1RymhSMtvJfCWRUv/banner.png)](https://zoskycube.com/pixelPower/session?id=vfdC1RymhSMtvJfCWRUv)
