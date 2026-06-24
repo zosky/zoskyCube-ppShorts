@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-24 - Raider's Brick Ward: Pineapple Unitary Trouble](https://shorts.zoskycube.com/pixelPower/shorts/z4WOdG3pyduihGdrJNeG/banner.png)](https://zoskycube.com/pixelPower/session?id=z4WOdG3pyduihGdrJNeG)
 [![2026-06-23 - Ivory Pulse in a Wasteland Forest](https://shorts.zoskycube.com/pixelPower/shorts/5Wl4X0mhhHYcjCiCdpj5/banner.png)](https://zoskycube.com/pixelPower/session?id=5Wl4X0mhhHYcjCiCdpj5)
 [![2026-06-23 - Radioactive Fallout: The Rookie's Rejuvenation](https://shorts.zoskycube.com/pixelPower/shorts/mvBESleMG9PYLUhVyK8G/banner.png)](https://zoskycube.com/pixelPower/session?id=mvBESleMG9PYLUhVyK8G)
 [![2026-06-23 - Dwarf's Midnight Wrench & Werewolf Howl](https://shorts.zoskycube.com/pixelPower/shorts/uLLdIudo899VOuthdeHr/banner.png)](https://zoskycube.com/pixelPower/session?id=uLLdIudo899VOuthdeHr)
