@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-25 - Aardvark Relic: Jetpack Flight West](https://shorts.zoskycube.com/pixelPower/shorts/qMqQz3HqZGwjwCPaCJyx/banner.png)](https://zoskycube.com/pixelPower/session?id=qMqQz3HqZGwjwCPaCJyx)
 [![2026-06-25 - Pinwheel's Opening: Saffron Glow](https://shorts.zoskycube.com/pixelPower/shorts/PRnLxfJ8jBtYzsu1zSiR/banner.png)](https://zoskycube.com/pixelPower/session?id=PRnLxfJ8jBtYzsu1zSiR)
 [![2026-06-24 - Compass & Code: Rise of the Rewired Resort](https://shorts.zoskycube.com/pixelPower/shorts/78VwUAKuXPufRtFkAEY0/banner.png)](https://zoskycube.com/pixelPower/session?id=78VwUAKuXPufRtFkAEY0)
 [![2026-06-24 - Raider's Brick Ward: Pineapple Unitary Trouble](https://shorts.zoskycube.com/pixelPower/shorts/z4WOdG3pyduihGdrJNeG/banner.png)](https://zoskycube.com/pixelPower/session?id=z4WOdG3pyduihGdrJNeG)
