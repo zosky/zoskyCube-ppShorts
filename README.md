@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-25 - Ultraviolet Torrent: Fjords of the Warlock](https://shorts.zoskycube.com/pixelPower/shorts/LhWL0nAPvJe07dBIoDbg/banner.png)](https://zoskycube.com/pixelPower/session?id=LhWL0nAPvJe07dBIoDbg)
 [![2026-06-25 - Aardvark Relic: Jetpack Flight West](https://shorts.zoskycube.com/pixelPower/shorts/qMqQz3HqZGwjwCPaCJyx/banner.png)](https://zoskycube.com/pixelPower/session?id=qMqQz3HqZGwjwCPaCJyx)
 [![2026-06-25 - Pinwheel's Opening: Saffron Glow](https://shorts.zoskycube.com/pixelPower/shorts/PRnLxfJ8jBtYzsu1zSiR/banner.png)](https://zoskycube.com/pixelPower/session?id=PRnLxfJ8jBtYzsu1zSiR)
 [![2026-06-24 - Compass & Code: Rise of the Rewired Resort](https://shorts.zoskycube.com/pixelPower/shorts/78VwUAKuXPufRtFkAEY0/banner.png)](https://zoskycube.com/pixelPower/session?id=78VwUAKuXPufRtFkAEY0)
