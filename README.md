@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-06-28 - Apricot Labyrinth: Trident's Echo](https://shorts.zoskycube.com/pixelPower/shorts/Y9ChQDCSNCBMXX6byLdG/banner.png)](https://zoskycube.com/pixelPower/session?id=Y9ChQDCSNCBMXX6byLdG)
 [![2026-06-28 - Gateway's Falloff: A Mechanic's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/rCRjlMuHSSLv7wOmFGLj/banner.png)](https://zoskycube.com/pixelPower/session?id=rCRjlMuHSSLv7wOmFGLj)
 [![2026-06-28 - Wastes, Walkers, Hackers, & Dragons](https://shorts.zoskycube.com/pixelPower/shorts/MSB6Y2p33838Ooma3pe9/banner.png)](https://zoskycube.com/pixelPower/session?id=MSB6Y2p33838Ooma3pe9)
 [![2026-06-27 - Cyborg City Under Jaundiced Sky](https://shorts.zoskycube.com/pixelPower/shorts/OeOmaAznkaDzK5RQvK5b/banner.png)](https://zoskycube.com/pixelPower/session?id=OeOmaAznkaDzK5RQvK5b)
