@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-01 - Demolition's Aftereffect: A Crown's Ransom](https://shorts.zoskycube.com/pixelPower/shorts/eqOJ6jvX3LhlMn6r12WX/banner.png)](https://zoskycube.com/pixelPower/session?id=eqOJ6jvX3LhlMn6r12WX)
 [![2026-07-01 - Lunar Void: Gravity's Secrets Unlocked](https://shorts.zoskycube.com/pixelPower/shorts/kAWrgOmXMdSE88An6lPS/banner.png)](https://zoskycube.com/pixelPower/session?id=kAWrgOmXMdSE88An6lPS)
 [![2026-07-01 - Nitrogen Dystopia: Wrenching an Empire](https://shorts.zoskycube.com/pixelPower/shorts/RWYP4yyDyi9ZmgtFsjs0/banner.png)](https://zoskycube.com/pixelPower/session?id=RWYP4yyDyi9ZmgtFsjs0)
 [![2026-06-30 - Azimuth Guardian: Prototype's New Dawn](https://shorts.zoskycube.com/pixelPower/shorts/aPCLiKatLRSfDeRCstdR/banner.png)](https://zoskycube.com/pixelPower/session?id=aPCLiKatLRSfDeRCstdR)
