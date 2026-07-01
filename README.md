@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-01 - Nitrogen Dystopia: Wrenching an Empire](https://shorts.zoskycube.com/pixelPower/shorts/RWYP4yyDyi9ZmgtFsjs0/banner.png)](https://zoskycube.com/pixelPower/session?id=RWYP4yyDyi9ZmgtFsjs0)
 [![2026-06-30 - Azimuth Guardian: Prototype's New Dawn](https://shorts.zoskycube.com/pixelPower/shorts/aPCLiKatLRSfDeRCstdR/banner.png)](https://zoskycube.com/pixelPower/session?id=aPCLiKatLRSfDeRCstdR)
 [![2026-06-30 - Skatepark's Hex: Journey to New Heritage](https://shorts.zoskycube.com/pixelPower/shorts/gThGQr8hz5EguoToSVrT/banner.png)](https://zoskycube.com/pixelPower/session?id=gThGQr8hz5EguoToSVrT)
 [![2026-06-29 - Fairway's Shadow: A Trader's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/Wk1cMf3V8RzpihnT6Ehu/banner.png)](https://zoskycube.com/pixelPower/session?id=Wk1cMf3V8RzpihnT6Ehu)
