@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-02 - Celestial Bridge: Nebula's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/Sz0obRtFX7v4V9r7ytov/banner.png)](https://zoskycube.com/pixelPower/session?id=Sz0obRtFX7v4V9r7ytov)
 [![2026-07-02 - Cadet's Secret Plot Reshapes the Palace](https://shorts.zoskycube.com/pixelPower/shorts/2X1LV3WLcXZ55XdMI2zb/banner.png)](https://zoskycube.com/pixelPower/session?id=2X1LV3WLcXZ55XdMI2zb)
 [![2026-07-01 - Demolition's Aftereffect: A Crown's Ransom](https://shorts.zoskycube.com/pixelPower/shorts/eqOJ6jvX3LhlMn6r12WX/banner.png)](https://zoskycube.com/pixelPower/session?id=eqOJ6jvX3LhlMn6r12WX)
 [![2026-07-01 - Lunar Void: Gravity's Secrets Unlocked](https://shorts.zoskycube.com/pixelPower/shorts/kAWrgOmXMdSE88An6lPS/banner.png)](https://zoskycube.com/pixelPower/session?id=kAWrgOmXMdSE88An6lPS)
