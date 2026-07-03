@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-03 - Newbie's Gambit: The Matriarch's Powerplay](https://shorts.zoskycube.com/pixelPower/shorts/gCEeTBdbUqyvMOKahler/banner.png)](https://zoskycube.com/pixelPower/session?id=gCEeTBdbUqyvMOKahler)
 [![2026-07-02 - The Chalice, The Note, and The Viceroy's Failure](https://shorts.zoskycube.com/pixelPower/shorts/OQve81CsIVrOWfHPE83A/banner.png)](https://zoskycube.com/pixelPower/session?id=OQve81CsIVrOWfHPE83A)
 [![2026-07-02 - Celestial Bridge: Nebula's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/Sz0obRtFX7v4V9r7ytov/banner.png)](https://zoskycube.com/pixelPower/session?id=Sz0obRtFX7v4V9r7ytov)
 [![2026-07-02 - Cadet's Secret Plot Reshapes the Palace](https://shorts.zoskycube.com/pixelPower/shorts/2X1LV3WLcXZ55XdMI2zb/banner.png)](https://zoskycube.com/pixelPower/session?id=2X1LV3WLcXZ55XdMI2zb)
