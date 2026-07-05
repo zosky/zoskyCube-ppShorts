@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-05 - Pathfinder's Secret: The Digital Egg Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/iHgs6z3vWCPtk56S4Ppg/banner.png)](https://zoskycube.com/pixelPower/session?id=iHgs6z3vWCPtk56S4Ppg)
 [![2026-07-05 - Obelisks, Trijet, and the Mechanic's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/tkqheIyRDWGYROUyhBTZ/banner.png)](https://zoskycube.com/pixelPower/session?id=tkqheIyRDWGYROUyhBTZ)
 [![2026-07-05 - Verdant Entropy: The Highway Unification](https://shorts.zoskycube.com/pixelPower/shorts/j0yZVSqgvqChqBAA9VUy/banner.png)](https://zoskycube.com/pixelPower/session?id=j0yZVSqgvqChqBAA9VUy)
 [![2026-07-04 - Campus Mystery: Jade Compass Unveils Dragons](https://shorts.zoskycube.com/pixelPower/shorts/9cEgTjmE7WaG9WEVEGt1/banner.png)](https://zoskycube.com/pixelPower/session?id=9cEgTjmE7WaG9WEVEGt1)
