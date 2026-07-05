@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-05 - Verdant Entropy: The Highway Unification](https://shorts.zoskycube.com/pixelPower/shorts/j0yZVSqgvqChqBAA9VUy/banner.png)](https://zoskycube.com/pixelPower/session?id=j0yZVSqgvqChqBAA9VUy)
 [![2026-07-04 - Campus Mystery: Jade Compass Unveils Dragons](https://shorts.zoskycube.com/pixelPower/shorts/9cEgTjmE7WaG9WEVEGt1/banner.png)](https://zoskycube.com/pixelPower/session?id=9cEgTjmE7WaG9WEVEGt1)
 [![2026-07-04 - Ultramarine Fire: Compass, Code, & Rocket](https://shorts.zoskycube.com/pixelPower/shorts/OxotZTEfFyCFK2gK4OXf/banner.png)](https://zoskycube.com/pixelPower/session?id=OxotZTEfFyCFK2gK4OXf)
 [![2026-07-03 - Willow's Whisper: A Mechanic's Remake](https://shorts.zoskycube.com/pixelPower/shorts/9xQeRMXHbAkVzPSIGBFQ/banner.png)](https://zoskycube.com/pixelPower/session?id=9xQeRMXHbAkVzPSIGBFQ)
