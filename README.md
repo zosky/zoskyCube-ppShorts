@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-06 - Unlawful Espionage: The Compass Bearer's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/crY4P8mrcAayUXVIOZBp/banner.png)](https://zoskycube.com/pixelPower/session?id=crY4P8mrcAayUXVIOZBp)
 [![2026-07-06 - Unpacking Destiny: The Mercury Lockbox](https://shorts.zoskycube.com/pixelPower/shorts/C2Pra8l4I8yqoRyoDCMJ/banner.png)](https://zoskycube.com/pixelPower/session?id=C2Pra8l4I8yqoRyoDCMJ)
 [![2026-07-05 - Pathfinder's Secret: The Digital Egg Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/iHgs6z3vWCPtk56S4Ppg/banner.png)](https://zoskycube.com/pixelPower/session?id=iHgs6z3vWCPtk56S4Ppg)
 [![2026-07-05 - Obelisks, Trijet, and the Mechanic's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/tkqheIyRDWGYROUyhBTZ/banner.png)](https://zoskycube.com/pixelPower/session?id=tkqheIyRDWGYROUyhBTZ)
