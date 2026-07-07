@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-07 - Jade Chasm's Echo: Rebuilding Hope](https://shorts.zoskycube.com/pixelPower/shorts/jNQMupjy8BCTHwkxAXkL/banner.png)](https://zoskycube.com/pixelPower/session?id=jNQMupjy8BCTHwkxAXkL)
 [![2026-07-07 - Raider's Gambit: Compass, Code & Conflict](https://shorts.zoskycube.com/pixelPower/shorts/y1dPlyK0kFVtEAYSIjbl/banner.png)](https://zoskycube.com/pixelPower/session?id=y1dPlyK0kFVtEAYSIjbl)
 [![2026-07-06 - Unlawful Espionage: The Compass Bearer's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/crY4P8mrcAayUXVIOZBp/banner.png)](https://zoskycube.com/pixelPower/session?id=crY4P8mrcAayUXVIOZBp)
 [![2026-07-06 - Unpacking Destiny: The Mercury Lockbox](https://shorts.zoskycube.com/pixelPower/shorts/C2Pra8l4I8yqoRyoDCMJ/banner.png)](https://zoskycube.com/pixelPower/session?id=C2Pra8l4I8yqoRyoDCMJ)
