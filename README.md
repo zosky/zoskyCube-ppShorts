@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-09 - Engineer's Eclipse: Core Reset](https://shorts.zoskycube.com/pixelPower/shorts/Xfk5vEcNCP3mUKWA3lpZ/banner.png)](https://zoskycube.com/pixelPower/session?id=Xfk5vEcNCP3mUKWA3lpZ)
 [![2026-07-08 - Motorway's End: The Jade Compass Enigma](https://shorts.zoskycube.com/pixelPower/shorts/PnZC7j9gZ5YzNkOxQEi2/banner.png)](https://zoskycube.com/pixelPower/session?id=PnZC7j9gZ5YzNkOxQEi2)
 [![2026-07-07 - Jade Chasm's Echo: Rebuilding Hope](https://shorts.zoskycube.com/pixelPower/shorts/jNQMupjy8BCTHwkxAXkL/banner.png)](https://zoskycube.com/pixelPower/session?id=jNQMupjy8BCTHwkxAXkL)
 [![2026-07-07 - Raider's Gambit: Compass, Code & Conflict](https://shorts.zoskycube.com/pixelPower/shorts/y1dPlyK0kFVtEAYSIjbl/banner.png)](https://zoskycube.com/pixelPower/session?id=y1dPlyK0kFVtEAYSIjbl)
