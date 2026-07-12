@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-12 - Kitchen Mechanic Fights Infernal Insect Hijack](https://shorts.zoskycube.com/pixelPower/shorts/vWGAZVT1vuWkO0DaPHfQ/banner.png)](https://zoskycube.com/pixelPower/session?id=vWGAZVT1vuWkO0DaPHfQ)
 [![2026-07-10 - Jaded Earth, Halcyon Dawn](https://shorts.zoskycube.com/pixelPower/shorts/P4Q4XYScvLVbLv1HjnOk/banner.png)](https://zoskycube.com/pixelPower/session?id=P4Q4XYScvLVbLv1HjnOk)
 [![2026-07-10 - Kraken's Embrace: Desert's New Horizon](https://shorts.zoskycube.com/pixelPower/shorts/w2I1oo68D3b35HjrSTja/banner.png)](https://zoskycube.com/pixelPower/session?id=w2I1oo68D3b35HjrSTja)
 [![2026-07-10 - Chasmic World's Undecided Harvest](https://shorts.zoskycube.com/pixelPower/shorts/a0itw8zlmdIZz32polfh/banner.png)](https://zoskycube.com/pixelPower/session?id=a0itw8zlmdIZz32polfh)
