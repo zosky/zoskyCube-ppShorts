@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-15 - Delta's Bloom: The Verbena Inheritance](https://shorts.zoskycube.com/pixelPower/shorts/cSf0q52Ka6OBn9QGxlWq/banner.png)](https://zoskycube.com/pixelPower/session?id=cSf0q52Ka6OBn9QGxlWq)
 [![2026-07-15 - Kinked Firecracker, New Academy](https://shorts.zoskycube.com/pixelPower/shorts/CIWYoFHXsnu5Hp5dDGue/banner.png)](https://zoskycube.com/pixelPower/session?id=CIWYoFHXsnu5Hp5dDGue)
 [![2026-07-12 - Exurb Technician Nullifies Spooky Threats](https://shorts.zoskycube.com/pixelPower/shorts/8hf3pgrxYR5VG1VSKKE6/banner.png)](https://zoskycube.com/pixelPower/session?id=8hf3pgrxYR5VG1VSKKE6)
 [![2026-07-12 - Baklava Gears, Hydrogen Flames, Turbojet Victory](https://shorts.zoskycube.com/pixelPower/shorts/nKKo2JGyQIOlRYfR6Lar/banner.png)](https://zoskycube.com/pixelPower/session?id=nKKo2JGyQIOlRYfR6Lar)
