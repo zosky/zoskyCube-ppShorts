@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-16 - New Portal, Old Secrets](https://shorts.zoskycube.com/pixelPower/shorts/Ck5LsER06WPUToQD5ynn/banner.png)](https://zoskycube.com/pixelPower/session?id=Ck5LsER06WPUToQD5ynn)
 [![2026-07-16 - Ransom Run: The Glitchy Legacy](https://shorts.zoskycube.com/pixelPower/shorts/cfzzuWqpcILR1Eoikl0O/banner.png)](https://zoskycube.com/pixelPower/session?id=cfzzuWqpcILR1Eoikl0O)
 [![2026-07-16 - Token Search: Underworld Machine's Secret](https://shorts.zoskycube.com/pixelPower/shorts/IttMR3w4laoVnSeBc8Iu/banner.png)](https://zoskycube.com/pixelPower/session?id=IttMR3w4laoVnSeBc8Iu)
 [![2026-07-15 - Delta's Bloom: The Verbena Inheritance](https://shorts.zoskycube.com/pixelPower/shorts/cSf0q52Ka6OBn9QGxlWq/banner.png)](https://zoskycube.com/pixelPower/session?id=cSf0q52Ka6OBn9QGxlWq)
