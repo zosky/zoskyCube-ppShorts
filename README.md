@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-18 - Eastward Journey: Overlord's Downfall](https://shorts.zoskycube.com/pixelPower/shorts/kI4YPyvhljah0hbsyhmC/banner.png)](https://zoskycube.com/pixelPower/session?id=kI4YPyvhljah0hbsyhmC)
 [![2026-07-17 - Doorway to Oblivion: The Hacker's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/4cP49a3UtnoiVs2ZuktB/banner.png)](https://zoskycube.com/pixelPower/session?id=4cP49a3UtnoiVs2ZuktB)
 [![2026-07-17 - Envoy's Gambit: The Cracked Jade Compass](https://shorts.zoskycube.com/pixelPower/shorts/CjGhUv9B90F1LiwXGQ81/banner.png)](https://zoskycube.com/pixelPower/session?id=CjGhUv9B90F1LiwXGQ81)
 [![2026-07-16 - New Portal, Old Secrets](https://shorts.zoskycube.com/pixelPower/shorts/Ck5LsER06WPUToQD5ynn/banner.png)](https://zoskycube.com/pixelPower/session?id=Ck5LsER06WPUToQD5ynn)
