@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-18 - Obsidian Echoes: The Turnip's Triumph](https://shorts.zoskycube.com/pixelPower/shorts/1Sl4Q2mkmX82M3o6XBsM/banner.png)](https://zoskycube.com/pixelPower/session?id=1Sl4Q2mkmX82M3o6XBsM)
 [![2026-07-18 - Launchpad's Secret: Enigma's Rise](https://shorts.zoskycube.com/pixelPower/shorts/r05AJFatH7a85zvx2UFy/banner.png)](https://zoskycube.com/pixelPower/session?id=r05AJFatH7a85zvx2UFy)
 [![2026-07-18 - Eastward Journey: Overlord's Downfall](https://shorts.zoskycube.com/pixelPower/shorts/kI4YPyvhljah0hbsyhmC/banner.png)](https://zoskycube.com/pixelPower/session?id=kI4YPyvhljah0hbsyhmC)
 [![2026-07-17 - Doorway to Oblivion: The Hacker's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/4cP49a3UtnoiVs2ZuktB/banner.png)](https://zoskycube.com/pixelPower/session?id=4cP49a3UtnoiVs2ZuktB)
