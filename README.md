@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-21 - Turbine's Echo: Mechanic's Vortex Survival](https://shorts.zoskycube.com/pixelPower/shorts/50ZVGGjFi5HDsseSdApV/banner.png)](https://zoskycube.com/pixelPower/session?id=50ZVGGjFi5HDsseSdApV)
 [![2026-07-21 - Junkyard Scavenger's Robotic Ascent](https://shorts.zoskycube.com/pixelPower/shorts/lYlmFqcLDSsUgKnZpnlD/banner.png)](https://zoskycube.com/pixelPower/session?id=lYlmFqcLDSsUgKnZpnlD)
 [![2026-07-20 - Ninja's Scorch Survival & Worm Grapple](https://shorts.zoskycube.com/pixelPower/shorts/g2Krk42Txb8j1WO0P8d6/banner.png)](https://zoskycube.com/pixelPower/session?id=g2Krk42Txb8j1WO0P8d6)
 [![2026-07-20 - Urchin's Scavenge: Vineyard to Baobab](https://shorts.zoskycube.com/pixelPower/shorts/8daItjmZJ2CfYngmsDiz/banner.png)](https://zoskycube.com/pixelPower/session?id=8daItjmZJ2CfYngmsDiz)
