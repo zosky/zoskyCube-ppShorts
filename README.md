@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-23 - Holmium Rebound: Astronaut's Fateful Uprising](https://shorts.zoskycube.com/pixelPower/shorts/AhdiLuEwZXkRb72TP4Ab/banner.png)](https://zoskycube.com/pixelPower/session?id=AhdiLuEwZXkRb72TP4Ab)
 [![2026-07-22 - Jungle's Grasp: The Compass's Reckless Truth](https://shorts.zoskycube.com/pixelPower/shorts/zmbUoTiTbvWblf0m48Mh/banner.png)](https://zoskycube.com/pixelPower/session?id=zmbUoTiTbvWblf0m48Mh)
 [![2026-07-22 - Palazzo of Shadows: The Ember's Cypher](https://shorts.zoskycube.com/pixelPower/shorts/rXBmMOAVSHNl3rG2mygM/banner.png)](https://zoskycube.com/pixelPower/session?id=rXBmMOAVSHNl3rG2mygM)
 [![2026-07-21 - Turbine's Echo: Mechanic's Vortex Survival](https://shorts.zoskycube.com/pixelPower/shorts/50ZVGGjFi5HDsseSdApV/banner.png)](https://zoskycube.com/pixelPower/session?id=50ZVGGjFi5HDsseSdApV)
