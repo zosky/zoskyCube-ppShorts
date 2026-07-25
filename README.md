@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-25 - Usher's Secret: Glyphs, Jackals, & Violet Glow](https://shorts.zoskycube.com/pixelPower/shorts/7Gl4iVj7oJYuzd1CvUII/banner.png)](https://zoskycube.com/pixelPower/session?id=7Gl4iVj7oJYuzd1CvUII)
 [![2026-07-25 - Dystopian Rift: The Junker's Ultimate Aftereffect](https://shorts.zoskycube.com/pixelPower/shorts/HIXDlcbRoUklGUNIZAV0/banner.png)](https://zoskycube.com/pixelPower/session?id=HIXDlcbRoUklGUNIZAV0)
 [![2026-07-25 - Neon City's Lowrider Legacy](https://shorts.zoskycube.com/pixelPower/shorts/5bJ6RiE2UXdwmsrh77EO/banner.png)](https://zoskycube.com/pixelPower/session?id=5bJ6RiE2UXdwmsrh77EO)
 [![2026-07-24 - Jetliner Highjack to Hallway Calm](https://shorts.zoskycube.com/pixelPower/shorts/MqpFfdaNtsFRtrCPP6tK/banner.png)](https://zoskycube.com/pixelPower/session?id=MqpFfdaNtsFRtrCPP6tK)
