@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-27 - Valley's Echo: The Gundeck Mechanic's Defiance](https://shorts.zoskycube.com/pixelPower/shorts/UuX0HYBuvAkLkxoFexGH/banner.png)](https://zoskycube.com/pixelPower/session?id=UuX0HYBuvAkLkxoFexGH)
 [![2026-07-27 - Unicorn's Shadow: A Haywire Ransom](https://shorts.zoskycube.com/pixelPower/shorts/wpfSsiQdWCRjs0YVvYdY/banner.png)](https://zoskycube.com/pixelPower/session?id=wpfSsiQdWCRjs0YVvYdY)
 [![2026-07-27 - Hamlet's Glitch: The Crushing of Oligarchy](https://shorts.zoskycube.com/pixelPower/shorts/sQknfGCrR7CPeIoI7Lu2/banner.png)](https://zoskycube.com/pixelPower/session?id=sQknfGCrR7CPeIoI7Lu2)
 [![2026-07-26 - Braid Mechanic's Orbital Palace Payback](https://shorts.zoskycube.com/pixelPower/shorts/KpTqfUSxOVVdPQn2cebe/banner.png)](https://zoskycube.com/pixelPower/session?id=KpTqfUSxOVVdPQn2cebe)
