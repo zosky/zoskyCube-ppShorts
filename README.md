@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-27 - Hamlet's Glitch: The Crushing of Oligarchy](https://shorts.zoskycube.com/pixelPower/shorts/sQknfGCrR7CPeIoI7Lu2/banner.png)](https://zoskycube.com/pixelPower/session?id=sQknfGCrR7CPeIoI7Lu2)
 [![2026-07-26 - Braid Mechanic's Orbital Palace Payback](https://shorts.zoskycube.com/pixelPower/shorts/KpTqfUSxOVVdPQn2cebe/banner.png)](https://zoskycube.com/pixelPower/session?id=KpTqfUSxOVVdPQn2cebe)
 [![2026-07-26 - Arctic Jogger's Undercity Escape](https://shorts.zoskycube.com/pixelPower/shorts/eSsaFOHgTdtKqPXL4CTs/banner.png)](https://zoskycube.com/pixelPower/session?id=eSsaFOHgTdtKqPXL4CTs)
 [![2026-07-25 - Usher's Secret: Glyphs, Jackals, & Violet Glow](https://shorts.zoskycube.com/pixelPower/shorts/7Gl4iVj7oJYuzd1CvUII/banner.png)](https://zoskycube.com/pixelPower/session?id=7Gl4iVj7oJYuzd1CvUII)
