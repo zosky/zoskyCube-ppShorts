@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-29 - Cave of the Abdicated Viscount](https://shorts.zoskycube.com/pixelPower/shorts/3vv0Eg9cIbq5tYfDYGfD/banner.png)](https://zoskycube.com/pixelPower/session?id=3vv0Eg9cIbq5tYfDYGfD)
 [![2026-07-28 - Drydock's Embrace, Nebula's Heartbreak](https://shorts.zoskycube.com/pixelPower/shorts/0QZoxtjf2MKnWzJbpFe3/banner.png)](https://zoskycube.com/pixelPower/session?id=0QZoxtjf2MKnWzJbpFe3)
 [![2026-07-28 - Sludge to Silicon: The Last Upgrade](https://shorts.zoskycube.com/pixelPower/shorts/l6LRob594OXDTQF87heO/banner.png)](https://zoskycube.com/pixelPower/session?id=l6LRob594OXDTQF87heO)
 [![2026-07-28 - Drought's Echo: Platinum-Amber Braids](https://shorts.zoskycube.com/pixelPower/shorts/lzrPIWaX8eJMM9MkBBt5/banner.png)](https://zoskycube.com/pixelPower/session?id=lzrPIWaX8eJMM9MkBBt5)
