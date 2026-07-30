@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-30 - Herdsman's Burden: Blackjack & Bloom](https://shorts.zoskycube.com/pixelPower/shorts/kX3qLzLclI1mFtoa5Z3u/banner.png)](https://zoskycube.com/pixelPower/session?id=kX3qLzLclI1mFtoa5Z3u)
 [![2026-07-29 - Toxic Folkway's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/5Az67CcsYUbqf0KMoc9b/banner.png)](https://zoskycube.com/pixelPower/session?id=5Az67CcsYUbqf0KMoc9b)
 [![2026-07-29 - Cave of the Abdicated Viscount](https://shorts.zoskycube.com/pixelPower/shorts/3vv0Eg9cIbq5tYfDYGfD/banner.png)](https://zoskycube.com/pixelPower/session?id=3vv0Eg9cIbq5tYfDYGfD)
 [![2026-07-28 - Drydock's Embrace, Nebula's Heartbreak](https://shorts.zoskycube.com/pixelPower/shorts/0QZoxtjf2MKnWzJbpFe3/banner.png)](https://zoskycube.com/pixelPower/session?id=0QZoxtjf2MKnWzJbpFe3)
