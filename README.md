@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-07-30 - Flooded Forest, Grave Cave, Emerald Plank](https://shorts.zoskycube.com/pixelPower/shorts/jWzR3S3ykDuryyIxArb0/banner.png)](https://zoskycube.com/pixelPower/session?id=jWzR3S3ykDuryyIxArb0)
 [![2026-07-30 - Djebel Abyss: A Teenager's Digital Vindication](https://shorts.zoskycube.com/pixelPower/shorts/HYnVnAX24EUUVhkpbb04/banner.png)](https://zoskycube.com/pixelPower/session?id=HYnVnAX24EUUVhkpbb04)
 [![2026-07-30 - Herdsman's Burden: Blackjack & Bloom](https://shorts.zoskycube.com/pixelPower/shorts/kX3qLzLclI1mFtoa5Z3u/banner.png)](https://zoskycube.com/pixelPower/session?id=kX3qLzLclI1mFtoa5Z3u)
 [![2026-07-29 - Toxic Folkway's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/5Az67CcsYUbqf0KMoc9b/banner.png)](https://zoskycube.com/pixelPower/session?id=5Az67CcsYUbqf0KMoc9b)
