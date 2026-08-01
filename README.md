@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-01 - Jade Compass: Redemption's Final Knot](https://shorts.zoskycube.com/pixelPower/shorts/TPcgnCE7VcuRAA8jLQeF/banner.png)](https://zoskycube.com/pixelPower/session?id=TPcgnCE7VcuRAA8jLQeF)
 [![2026-08-01 - Canyon Blaster: Rimrock's Redemption](https://shorts.zoskycube.com/pixelPower/shorts/EI5LCkCqwtQa72GRCdai/banner.png)](https://zoskycube.com/pixelPower/session?id=EI5LCkCqwtQa72GRCdai)
 [![2026-07-31 - Kinfolk Advance, Artifact Beckons, City Unchained](https://shorts.zoskycube.com/pixelPower/shorts/EHU4zx002fuq2YVNBb8A/banner.png)](https://zoskycube.com/pixelPower/session?id=EHU4zx002fuq2YVNBb8A)
 [![2026-07-31 - Labyrinth's Echo: The Shifting Statue](https://shorts.zoskycube.com/pixelPower/shorts/IAKYeogZ8VUsbTFmSa6h/banner.png)](https://zoskycube.com/pixelPower/session?id=IAKYeogZ8VUsbTFmSa6h)
