@@ -132,3 +132,4 @@ EHU4zx002fuq2YVNBb8A,2026-07-31,Kinfolk Advance, Artifact Beckons, City Unchaine
 EI5LCkCqwtQa72GRCdai,2026-08-01,Canyon Blaster: Rimrock's Redemption
 TPcgnCE7VcuRAA8jLQeF,2026-08-01,Jade Compass: Redemption's Final Knot
 BTc5XvkYCDNZJuQDzYQG,2026-08-02,Cadmium Gateways: Retribution's Flow
+IkfnaonL6OBRpWrR28PZ,2026-08-02,Logjam's Shadow, Jetpack's Flight
