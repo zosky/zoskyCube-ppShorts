@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-03 - Unfrocked Knights and Vivified Worlds](https://shorts.zoskycube.com/pixelPower/shorts/sRU9jkOiNuVEp8IAzOnh/banner.png)](https://zoskycube.com/pixelPower/session?id=sRU9jkOiNuVEp8IAzOnh)
 [![2026-08-02 - Alchemist's Junkyard Dream](https://shorts.zoskycube.com/pixelPower/shorts/MLT4sVNzFFcMPclpuAp1/banner.png)](https://zoskycube.com/pixelPower/session?id=MLT4sVNzFFcMPclpuAp1)
 [![2026-08-02 - Logjam's Shadow, Jetpack's Flight](https://shorts.zoskycube.com/pixelPower/shorts/IkfnaonL6OBRpWrR28PZ/banner.png)](https://zoskycube.com/pixelPower/session?id=IkfnaonL6OBRpWrR28PZ)
 [![2026-08-02 - Cadmium Gateways: Retribution's Flow](https://shorts.zoskycube.com/pixelPower/shorts/BTc5XvkYCDNZJuQDzYQG/banner.png)](https://zoskycube.com/pixelPower/session?id=BTc5XvkYCDNZJuQDzYQG)
