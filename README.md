@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-04 - Portal's Shadow: Braids, Compass, Overalls](https://shorts.zoskycube.com/pixelPower/shorts/TJbX70f7pWgHOETXyvFG/banner.png)](https://zoskycube.com/pixelPower/session?id=TJbX70f7pWgHOETXyvFG)
 [![2026-08-03 - Nomad's Loaded Lunchbox & Clockwork Climax](https://shorts.zoskycube.com/pixelPower/shorts/DCj1EtzPNGW8uP2DXzSz/banner.png)](https://zoskycube.com/pixelPower/session?id=DCj1EtzPNGW8uP2DXzSz)
 [![2026-08-03 - Braids, Compass, Overalls: Reordering Reality](https://shorts.zoskycube.com/pixelPower/shorts/wdEkUnX4OPTGUF1TXgqR/banner.png)](https://zoskycube.com/pixelPower/session?id=wdEkUnX4OPTGUF1TXgqR)
 [![2026-08-03 - Unfrocked Knights and Vivified Worlds](https://shorts.zoskycube.com/pixelPower/shorts/sRU9jkOiNuVEp8IAzOnh/banner.png)](https://zoskycube.com/pixelPower/session?id=sRU9jkOiNuVEp8IAzOnh)
