@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-05 - Observer's Last Stand Against the Blackout](https://shorts.zoskycube.com/pixelPower/shorts/90HzVBG4wFjVGScWdhrK/banner.png)](https://zoskycube.com/pixelPower/session?id=90HzVBG4wFjVGScWdhrK)
 [![2026-08-05 - Unlocking the Nebula: A Failsafe Aftermath](https://shorts.zoskycube.com/pixelPower/shorts/APP63B1SALBrGqBmf81y/banner.png)](https://zoskycube.com/pixelPower/session?id=APP63B1SALBrGqBmf81y)
 [![2026-08-05 - Unchaining the Grinder: A New Cycle Begins](https://shorts.zoskycube.com/pixelPower/shorts/becXoQmLVItin5Ox7QVE/banner.png)](https://zoskycube.com/pixelPower/session?id=becXoQmLVItin5Ox7QVE)
 [![2026-08-04 - Asymmetric Braids vs. Encoded Lore](https://shorts.zoskycube.com/pixelPower/shorts/kTFJFWNkDXyWlJ1CllF8/banner.png)](https://zoskycube.com/pixelPower/session?id=kTFJFWNkDXyWlJ1CllF8)
