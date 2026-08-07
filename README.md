@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-07 - Data Shepherd's Digital Redemption](https://shorts.zoskycube.com/pixelPower/shorts/j7d8ornJ3yFrwuFOwmb8/banner.png)](https://zoskycube.com/pixelPower/session?id=j7d8ornJ3yFrwuFOwmb8)
 [![2026-08-07 - Fjord's Fury: Compass Unlocks Entropy's End](https://shorts.zoskycube.com/pixelPower/shorts/FluVNkV7a1fG2ED4bV8t/banner.png)](https://zoskycube.com/pixelPower/session?id=FluVNkV7a1fG2ED4bV8t)
 [![2026-08-06 - Warehouse Escape: Skywalk Blackmail](https://shorts.zoskycube.com/pixelPower/shorts/pPK2oN1oOicsyFAWExMQ/banner.png)](https://zoskycube.com/pixelPower/session?id=pPK2oN1oOicsyFAWExMQ)
 [![2026-08-05 - Observer's Last Stand Against the Blackout](https://shorts.zoskycube.com/pixelPower/shorts/90HzVBG4wFjVGScWdhrK/banner.png)](https://zoskycube.com/pixelPower/session?id=90HzVBG4wFjVGScWdhrK)
