@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-08 - Lava's Echo: The Compass's Secret](https://shorts.zoskycube.com/pixelPower/shorts/lzW9RFWQ9Q4RInhdsef9/banner.png)](https://zoskycube.com/pixelPower/session?id=lzW9RFWQ9Q4RInhdsef9)
 [![2026-08-08 - Wormhole's Echo: Artifacts & A Hostage Taxi](https://shorts.zoskycube.com/pixelPower/shorts/cKkExU26Bx2GU2riXenf/banner.png)](https://zoskycube.com/pixelPower/session?id=cKkExU26Bx2GU2riXenf)
 [![2026-08-07 - Data Shepherd's Digital Redemption](https://shorts.zoskycube.com/pixelPower/shorts/j7d8ornJ3yFrwuFOwmb8/banner.png)](https://zoskycube.com/pixelPower/session?id=j7d8ornJ3yFrwuFOwmb8)
 [![2026-08-07 - Fjord's Fury: Compass Unlocks Entropy's End](https://shorts.zoskycube.com/pixelPower/shorts/FluVNkV7a1fG2ED4bV8t/banner.png)](https://zoskycube.com/pixelPower/session?id=FluVNkV7a1fG2ED4bV8t)
