@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-10 - Frontier Fix: Jetpack, Ransomware, Recovery](https://shorts.zoskycube.com/pixelPower/shorts/QEgC0cBKn4p9GjaRBX20/banner.png)](https://zoskycube.com/pixelPower/session?id=QEgC0cBKn4p9GjaRBX20)
 [![2026-08-09 - Coded Freedom: Lakebed Redemption](https://shorts.zoskycube.com/pixelPower/shorts/l9Z8hCAwpoWKont8Hogg/banner.png)](https://zoskycube.com/pixelPower/session?id=l9Z8hCAwpoWKont8Hogg)
 [![2026-08-09 - The Triangle's Cryptic Key](https://shorts.zoskycube.com/pixelPower/shorts/biHRiRtt2NVlE1LmRT7J/banner.png)](https://zoskycube.com/pixelPower/session?id=biHRiRtt2NVlE1LmRT7J)
 [![2026-08-08 - Lava's Echo: The Compass's Secret](https://shorts.zoskycube.com/pixelPower/shorts/lzW9RFWQ9Q4RInhdsef9/banner.png)](https://zoskycube.com/pixelPower/session?id=lzW9RFWQ9Q4RInhdsef9)
