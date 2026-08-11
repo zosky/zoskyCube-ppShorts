@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-11 - Unstable Warship's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/jcUIfuwLUEK5gWcvsLHB/banner.png)](https://zoskycube.com/pixelPower/session?id=jcUIfuwLUEK5gWcvsLHB)
 [![2026-08-10 - Academy Outcast's Digital Dilemma](https://shorts.zoskycube.com/pixelPower/shorts/MqqVLePbTmCCDFooyxjf/banner.png)](https://zoskycube.com/pixelPower/session?id=MqqVLePbTmCCDFooyxjf)
 [![2026-08-10 - Jade Compass: Redemption Arc](https://shorts.zoskycube.com/pixelPower/shorts/xpbYGJqiRRUSdxsH32Yc/banner.png)](https://zoskycube.com/pixelPower/session?id=xpbYGJqiRRUSdxsH32Yc)
 [![2026-08-10 - Frontier Fix: Jetpack, Ransomware, Recovery](https://shorts.zoskycube.com/pixelPower/shorts/QEgC0cBKn4p9GjaRBX20/banner.png)](https://zoskycube.com/pixelPower/session?id=QEgC0cBKn4p9GjaRBX20)
