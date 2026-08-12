@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-12 - Synth's Strategy: Vertex of Power](https://shorts.zoskycube.com/pixelPower/shorts/H1sAAnTF6osOkfcSftgl/banner.png)](https://zoskycube.com/pixelPower/session?id=H1sAAnTF6osOkfcSftgl)
 [![2026-08-12 - Braid & Compass: Seedling's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/tykD2QJlJPAGWJRohc3c/banner.png)](https://zoskycube.com/pixelPower/session?id=tykD2QJlJPAGWJRohc3c)
 [![2026-08-12 - Krypton Unclamps: Shipway's Simple Divide](https://shorts.zoskycube.com/pixelPower/shorts/jv6xyJp8eGIMb7NORSpY/banner.png)](https://zoskycube.com/pixelPower/session?id=jv6xyJp8eGIMb7NORSpY)
 [![2026-08-11 - Lagoon Exile: Networked Empire's Fall](https://shorts.zoskycube.com/pixelPower/shorts/GglNNirDfMYEyStYLAUN/banner.png)](https://zoskycube.com/pixelPower/session?id=GglNNirDfMYEyStYLAUN)
