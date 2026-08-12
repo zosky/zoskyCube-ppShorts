@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-12 - Krypton Unclamps: Shipway's Simple Divide](https://shorts.zoskycube.com/pixelPower/shorts/jv6xyJp8eGIMb7NORSpY/banner.png)](https://zoskycube.com/pixelPower/session?id=jv6xyJp8eGIMb7NORSpY)
 [![2026-08-11 - Lagoon Exile: Networked Empire's Fall](https://shorts.zoskycube.com/pixelPower/shorts/GglNNirDfMYEyStYLAUN/banner.png)](https://zoskycube.com/pixelPower/session?id=GglNNirDfMYEyStYLAUN)
 [![2026-08-11 - Unstable Warship's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/jcUIfuwLUEK5gWcvsLHB/banner.png)](https://zoskycube.com/pixelPower/session?id=jcUIfuwLUEK5gWcvsLHB)
 [![2026-08-10 - Academy Outcast's Digital Dilemma](https://shorts.zoskycube.com/pixelPower/shorts/MqqVLePbTmCCDFooyxjf/banner.png)](https://zoskycube.com/pixelPower/session?id=MqqVLePbTmCCDFooyxjf)
