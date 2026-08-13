@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-13 - Whispers of the Sand: A Broken Compass's Tale](https://shorts.zoskycube.com/pixelPower/shorts/91IZ0MtyTOwtefyJwK4Z/banner.png)](https://zoskycube.com/pixelPower/session?id=91IZ0MtyTOwtefyJwK4Z)
 [![2026-08-13 - Radial Fanjet Revival](https://shorts.zoskycube.com/pixelPower/shorts/NJB00Wg3hpsSMgF7Ea1U/banner.png)](https://zoskycube.com/pixelPower/session?id=NJB00Wg3hpsSMgF7Ea1U)
 [![2026-08-12 - Synth's Strategy: Vertex of Power](https://shorts.zoskycube.com/pixelPower/shorts/H1sAAnTF6osOkfcSftgl/banner.png)](https://zoskycube.com/pixelPower/session?id=H1sAAnTF6osOkfcSftgl)
 [![2026-08-12 - Braid & Compass: Seedling's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/tykD2QJlJPAGWJRohc3c/banner.png)](https://zoskycube.com/pixelPower/session?id=tykD2QJlJPAGWJRohc3c)
