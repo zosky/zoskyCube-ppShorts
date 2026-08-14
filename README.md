@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-14 - Mountain Anchor, Vice Checkmate, Fjord Rebirth](https://shorts.zoskycube.com/pixelPower/shorts/srbL7QaFPWGAp6fGKhZS/banner.png)](https://zoskycube.com/pixelPower/session?id=srbL7QaFPWGAp6fGKhZS)
 [![2026-08-14 - Rust-Shacked Vendor Hijacks a Glitchy World](https://shorts.zoskycube.com/pixelPower/shorts/P9lPZv4uliopd6tvwSvN/banner.png)](https://zoskycube.com/pixelPower/session?id=P9lPZv4uliopd6tvwSvN)
 [![2026-08-13 - Whispers of the Sand: A Broken Compass's Tale](https://shorts.zoskycube.com/pixelPower/shorts/91IZ0MtyTOwtefyJwK4Z/banner.png)](https://zoskycube.com/pixelPower/session?id=91IZ0MtyTOwtefyJwK4Z)
 [![2026-08-13 - Radial Fanjet Revival](https://shorts.zoskycube.com/pixelPower/shorts/NJB00Wg3hpsSMgF7Ea1U/banner.png)](https://zoskycube.com/pixelPower/session?id=NJB00Wg3hpsSMgF7Ea1U)
