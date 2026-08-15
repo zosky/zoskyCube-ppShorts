@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-15 - Crimson Diamond Intrusion](https://shorts.zoskycube.com/pixelPower/shorts/kHNG4niErKbjLaXVeeMZ/banner.png)](https://zoskycube.com/pixelPower/session?id=kHNG4niErKbjLaXVeeMZ)
 [![2026-08-15 - Ice Columns & Keycards: The Trooper's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/QyfOyCclbJzpN6tegejM/banner.png)](https://zoskycube.com/pixelPower/session?id=QyfOyCclbJzpN6tegejM)
 [![2026-08-14 - Mountain Anchor, Vice Checkmate, Fjord Rebirth](https://shorts.zoskycube.com/pixelPower/shorts/srbL7QaFPWGAp6fGKhZS/banner.png)](https://zoskycube.com/pixelPower/session?id=srbL7QaFPWGAp6fGKhZS)
 [![2026-08-14 - Rust-Shacked Vendor Hijacks a Glitchy World](https://shorts.zoskycube.com/pixelPower/shorts/P9lPZv4uliopd6tvwSvN/banner.png)](https://zoskycube.com/pixelPower/session?id=P9lPZv4uliopd6tvwSvN)
