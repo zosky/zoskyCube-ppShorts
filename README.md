@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-16 - Desert's Embrace, Jungle's Secret](https://shorts.zoskycube.com/pixelPower/shorts/JdcvFFz7Fr7x5mjUPfui/banner.png)](https://zoskycube.com/pixelPower/session?id=JdcvFFz7Fr7x5mjUPfui)
 [![2026-08-16 - Cordillera's Edge: Outlaw Confrontation](https://shorts.zoskycube.com/pixelPower/shorts/yHOAddNoyoyzbqt75mNC/banner.png)](https://zoskycube.com/pixelPower/session?id=yHOAddNoyoyzbqt75mNC)
 [![2026-08-15 - Crimson Diamond Intrusion](https://shorts.zoskycube.com/pixelPower/shorts/kHNG4niErKbjLaXVeeMZ/banner.png)](https://zoskycube.com/pixelPower/session?id=kHNG4niErKbjLaXVeeMZ)
 [![2026-08-15 - Ice Columns & Keycards: The Trooper's Resolve](https://shorts.zoskycube.com/pixelPower/shorts/QyfOyCclbJzpN6tegejM/banner.png)](https://zoskycube.com/pixelPower/session?id=QyfOyCclbJzpN6tegejM)
