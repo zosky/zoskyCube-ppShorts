@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-18 - Manor Heist: The Trickster's Code](https://shorts.zoskycube.com/pixelPower/shorts/yLPttSC1ji0tkOBYtlnw/banner.png)](https://zoskycube.com/pixelPower/session?id=yLPttSC1ji0tkOBYtlnw)
 [![2026-08-18 - Derrick's Device: A Junkyard's Revival](https://shorts.zoskycube.com/pixelPower/shorts/lHURueMLev8OG6CLxttv/banner.png)](https://zoskycube.com/pixelPower/session?id=lHURueMLev8OG6CLxttv)
 [![2026-08-17 - Desert Bloom to Jungle Reckoning: A Solo Journey](https://shorts.zoskycube.com/pixelPower/shorts/vgMzx8fzyipoiNZvippe/banner.png)](https://zoskycube.com/pixelPower/session?id=vgMzx8fzyipoiNZvippe)
 [![2026-08-17 - Amber Sanctuary's Roar](https://shorts.zoskycube.com/pixelPower/shorts/SyZFr1CUidR7tJf13zd1/banner.png)](https://zoskycube.com/pixelPower/session?id=SyZFr1CUidR7tJf13zd1)
