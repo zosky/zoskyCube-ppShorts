@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-20 - Faraday's Resistance: The Pilot's Jinx](https://shorts.zoskycube.com/pixelPower/shorts/DnkwsEYFrMR6du0lS1Gb/banner.png)](https://zoskycube.com/pixelPower/session?id=DnkwsEYFrMR6du0lS1Gb)
 [![2026-08-19 - Unilobed City: The Octopus's Shadow](https://shorts.zoskycube.com/pixelPower/shorts/dIdRRZ8gLsWgZoxhbpkg/banner.png)](https://zoskycube.com/pixelPower/session?id=dIdRRZ8gLsWgZoxhbpkg)
 [![2026-08-18 - Manor Heist: The Trickster's Code](https://shorts.zoskycube.com/pixelPower/shorts/yLPttSC1ji0tkOBYtlnw/banner.png)](https://zoskycube.com/pixelPower/session?id=yLPttSC1ji0tkOBYtlnw)
 [![2026-08-18 - Derrick's Device: A Junkyard's Revival](https://shorts.zoskycube.com/pixelPower/shorts/lHURueMLev8OG6CLxttv/banner.png)](https://zoskycube.com/pixelPower/session?id=lHURueMLev8OG6CLxttv)
