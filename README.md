@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-26 - Kudzu Ruins: The Mantis Protocol](https://shorts.zoskycube.com/pixelPower/shorts/AORZY35fxrOBk3agbu7v/banner.png)](https://zoskycube.com/pixelPower/session?id=AORZY35fxrOBk3agbu7v)
 [![2026-08-26 - Meridian Foghorn, Jacaranda Jetway, Offline Woods](https://shorts.zoskycube.com/pixelPower/shorts/qTuBqErbnrKV1yFKG3Sv/banner.png)](https://zoskycube.com/pixelPower/session?id=qTuBqErbnrKV1yFKG3Sv)
 [![2026-08-20 - Faraday's Resistance: The Pilot's Jinx](https://shorts.zoskycube.com/pixelPower/shorts/DnkwsEYFrMR6du0lS1Gb/banner.png)](https://zoskycube.com/pixelPower/session?id=DnkwsEYFrMR6du0lS1Gb)
 [![2026-08-19 - Unilobed City: The Octopus's Shadow](https://shorts.zoskycube.com/pixelPower/shorts/dIdRRZ8gLsWgZoxhbpkg/banner.png)](https://zoskycube.com/pixelPower/session?id=dIdRRZ8gLsWgZoxhbpkg)
