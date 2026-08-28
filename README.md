@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-28 - Wasteland Compass: A Survivor's Reel](https://shorts.zoskycube.com/pixelPower/shorts/mSmzy04QNGkf0ixVeCIn/banner.png)](https://zoskycube.com/pixelPower/session?id=mSmzy04QNGkf0ixVeCIn)
 [![2026-08-26 - Turquoise Wasteland: The Kestrel's Secret](https://shorts.zoskycube.com/pixelPower/shorts/QWZPNgnPkEui4TBFNIgV/banner.png)](https://zoskycube.com/pixelPower/session?id=QWZPNgnPkEui4TBFNIgV)
 [![2026-08-26 - Kudzu Ruins: The Mantis Protocol](https://shorts.zoskycube.com/pixelPower/shorts/AORZY35fxrOBk3agbu7v/banner.png)](https://zoskycube.com/pixelPower/session?id=AORZY35fxrOBk3agbu7v)
 [![2026-08-26 - Meridian Foghorn, Jacaranda Jetway, Offline Woods](https://shorts.zoskycube.com/pixelPower/shorts/qTuBqErbnrKV1yFKG3Sv/banner.png)](https://zoskycube.com/pixelPower/session?id=qTuBqErbnrKV1yFKG3Sv)
