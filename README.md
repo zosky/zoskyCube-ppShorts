@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-29 - Archway's Shadow: A Teenager's Offshore Struggle](https://shorts.zoskycube.com/pixelPower/shorts/4cO4lPYB2ZHm1ZYN6vv2/banner.png)](https://zoskycube.com/pixelPower/session?id=4cO4lPYB2ZHm1ZYN6vv2)
 [![2026-08-28 - Enclave's Genius, Algorithm's Prey](https://shorts.zoskycube.com/pixelPower/shorts/cAJsSvyQkMu2u6UbZ4fD/banner.png)](https://zoskycube.com/pixelPower/session?id=cAJsSvyQkMu2u6UbZ4fD)
 [![2026-08-28 - Ilmenite, Jackals, and a Cracked Compass](https://shorts.zoskycube.com/pixelPower/shorts/yQ4ywcnQ7BwU39iicNhn/banner.png)](https://zoskycube.com/pixelPower/session?id=yQ4ywcnQ7BwU39iicNhn)
 [![2026-08-28 - Wasteland Compass: A Survivor's Reel](https://shorts.zoskycube.com/pixelPower/shorts/mSmzy04QNGkf0ixVeCIn/banner.png)](https://zoskycube.com/pixelPower/session?id=mSmzy04QNGkf0ixVeCIn)
