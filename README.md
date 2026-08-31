@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-08-31 - Pyramid's Secret: A Technocrat's Urgent Finding](https://shorts.zoskycube.com/pixelPower/shorts/SDEMFpXKnzSAOLhlHvsQ/banner.png)](https://zoskycube.com/pixelPower/session?id=SDEMFpXKnzSAOLhlHvsQ)
 [![2026-08-30 - Jetlagged Girl Unlocks Evergreen Reality](https://shorts.zoskycube.com/pixelPower/shorts/wjylDLpFQ19gzl8y9Csn/banner.png)](https://zoskycube.com/pixelPower/session?id=wjylDLpFQ19gzl8y9Csn)
 [![2026-08-30 - Westward Whisper: The Jackscrew's Recoil](https://shorts.zoskycube.com/pixelPower/shorts/s99u9SN9NP7bHYCtZTTK/banner.png)](https://zoskycube.com/pixelPower/session?id=s99u9SN9NP7bHYCtZTTK)
 [![2026-08-30 - Goblin Mechanic's Digital Hex](https://shorts.zoskycube.com/pixelPower/shorts/0DGtexmPPPfZJ43zH5y9/banner.png)](https://zoskycube.com/pixelPower/session?id=0DGtexmPPPfZJ43zH5y9)
