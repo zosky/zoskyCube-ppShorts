@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-01 - Kitten's Whimper, Octagon's Oxygen](https://shorts.zoskycube.com/pixelPower/shorts/P5QHjYhe9N7ye1GdCLPh/banner.png)](https://zoskycube.com/pixelPower/session?id=P5QHjYhe9N7ye1GdCLPh)
 [![2026-09-01 - Hackery, Instability, and a Greenhouse Tavern](https://shorts.zoskycube.com/pixelPower/shorts/h5HBnWkiC2oB7JkyHfSG/banner.png)](https://zoskycube.com/pixelPower/session?id=h5HBnWkiC2oB7JkyHfSG)
 [![2026-08-31 - Variant Impact: The Shifter's Elixir](https://shorts.zoskycube.com/pixelPower/shorts/yOaJDVDPbHt9jWmqq3qG/banner.png)](https://zoskycube.com/pixelPower/session?id=yOaJDVDPbHt9jWmqq3qG)
 [![2026-08-31 - Pyramid's Secret: A Technocrat's Urgent Finding](https://shorts.zoskycube.com/pixelPower/shorts/SDEMFpXKnzSAOLhlHvsQ/banner.png)](https://zoskycube.com/pixelPower/session?id=SDEMFpXKnzSAOLhlHvsQ)
