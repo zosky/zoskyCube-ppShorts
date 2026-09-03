@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-03 - Junkyard Wunderkind's Novel Revelation](https://shorts.zoskycube.com/pixelPower/shorts/ZGm4bPBQBB1AO2MpAmBe/banner.png)](https://zoskycube.com/pixelPower/session?id=ZGm4bPBQBB1AO2MpAmBe)
 [![2026-09-02 - Jade Compass: Relics, Whales, and Dawn](https://shorts.zoskycube.com/pixelPower/shorts/FzsiM41J6ZGeBYsHsGXc/banner.png)](https://zoskycube.com/pixelPower/session?id=FzsiM41J6ZGeBYsHsGXc)
 [![2026-09-01 - Kitten's Whimper, Octagon's Oxygen](https://shorts.zoskycube.com/pixelPower/shorts/P5QHjYhe9N7ye1GdCLPh/banner.png)](https://zoskycube.com/pixelPower/session?id=P5QHjYhe9N7ye1GdCLPh)
 [![2026-09-01 - Hackery, Instability, and a Greenhouse Tavern](https://shorts.zoskycube.com/pixelPower/shorts/h5HBnWkiC2oB7JkyHfSG/banner.png)](https://zoskycube.com/pixelPower/session?id=h5HBnWkiC2oB7JkyHfSG)
