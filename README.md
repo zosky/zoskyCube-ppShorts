@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-05 - Observatory Escape: Ramjet to a New Glade](https://shorts.zoskycube.com/pixelPower/shorts/6RU1BzuePSHDwmSnLncr/banner.png)](https://zoskycube.com/pixelPower/session?id=6RU1BzuePSHDwmSnLncr)
 [![2026-09-05 - Shipway Crisis: The Windmill Gambit](https://shorts.zoskycube.com/pixelPower/shorts/HQmPakw4H6wbaFdGsrIF/banner.png)](https://zoskycube.com/pixelPower/session?id=HQmPakw4H6wbaFdGsrIF)
 [![2026-09-04 - Jaffa Rings, Tusked Beast, and a New Dawn](https://shorts.zoskycube.com/pixelPower/shorts/lUWCb7z9jmeGon0t02ff/banner.png)](https://zoskycube.com/pixelPower/session?id=lUWCb7z9jmeGon0t02ff)
 [![2026-09-03 - Junkyard Wunderkind's Novel Revelation](https://shorts.zoskycube.com/pixelPower/shorts/ZGm4bPBQBB1AO2MpAmBe/banner.png)](https://zoskycube.com/pixelPower/session?id=ZGm4bPBQBB1AO2MpAmBe)
