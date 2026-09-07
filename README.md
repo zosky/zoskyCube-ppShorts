@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-07 - Compass's Echo: The Last Extraction](https://shorts.zoskycube.com/pixelPower/shorts/wpZ6U2aljBQT4deF40up/banner.png)](https://zoskycube.com/pixelPower/session?id=wpZ6U2aljBQT4deF40up)
 [![2026-09-06 - Voodoo Prototypes & Voltage Pulses](https://shorts.zoskycube.com/pixelPower/shorts/GJX3XTwtCRWVQ31ZPY4U/banner.png)](https://zoskycube.com/pixelPower/session?id=GJX3XTwtCRWVQ31ZPY4U)
 [![2026-09-06 - Compass's Call: Escape the Programme](https://shorts.zoskycube.com/pixelPower/shorts/nrWZRKVVCKHL5zwSvzzu/banner.png)](https://zoskycube.com/pixelPower/session?id=nrWZRKVVCKHL5zwSvzzu)
 [![2026-09-06 - Asymmetric Braids in a Hologram City](https://shorts.zoskycube.com/pixelPower/shorts/hCZ1nKuCRhoU6THpC7pV/banner.png)](https://zoskycube.com/pixelPower/session?id=hCZ1nKuCRhoU6THpC7pV)
