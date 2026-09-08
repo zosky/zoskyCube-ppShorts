@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-08 - Umber Lockout: The Sapling's Secret](https://shorts.zoskycube.com/pixelPower/shorts/sMQ9mgxrpEBfYxV9R60H/banner.png)](https://zoskycube.com/pixelPower/session?id=sMQ9mgxrpEBfYxV9R60H)
 [![2026-09-08 - Mesa Brothers vs. Radioactive Crocks](https://shorts.zoskycube.com/pixelPower/shorts/kjU1fpxZS8Mr01UCrrxB/banner.png)](https://zoskycube.com/pixelPower/session?id=kjU1fpxZS8Mr01UCrrxB)
 [![2026-09-07 - Fjord Odyssey: Platinum Braids & Jade Compass](https://shorts.zoskycube.com/pixelPower/shorts/qPFuFuUppuV6XRDR1B3G/banner.png)](https://zoskycube.com/pixelPower/session?id=qPFuFuUppuV6XRDR1B3G)
 [![2026-09-07 - Compass's Echo: The Last Extraction](https://shorts.zoskycube.com/pixelPower/shorts/wpZ6U2aljBQT4deF40up/banner.png)](https://zoskycube.com/pixelPower/session?id=wpZ6U2aljBQT4deF40up)
