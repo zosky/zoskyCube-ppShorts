@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-09 - Raffled Puppy, Karma, and a Crooked Castle](https://shorts.zoskycube.com/pixelPower/shorts/L88yl8dvsxg9d0Wms8BU/banner.png)](https://zoskycube.com/pixelPower/session?id=L88yl8dvsxg9d0Wms8BU)
 [![2026-09-08 - Umber Lockout: The Sapling's Secret](https://shorts.zoskycube.com/pixelPower/shorts/sMQ9mgxrpEBfYxV9R60H/banner.png)](https://zoskycube.com/pixelPower/session?id=sMQ9mgxrpEBfYxV9R60H)
 [![2026-09-08 - Mesa Brothers vs. Radioactive Crocks](https://shorts.zoskycube.com/pixelPower/shorts/kjU1fpxZS8Mr01UCrrxB/banner.png)](https://zoskycube.com/pixelPower/session?id=kjU1fpxZS8Mr01UCrrxB)
 [![2026-09-07 - Fjord Odyssey: Platinum Braids & Jade Compass](https://shorts.zoskycube.com/pixelPower/shorts/qPFuFuUppuV6XRDR1B3G/banner.png)](https://zoskycube.com/pixelPower/session?id=qPFuFuUppuV6XRDR1B3G)
