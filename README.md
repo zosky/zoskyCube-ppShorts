@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-11 - Wayside Intellect: Fiefdom's Jewels](https://shorts.zoskycube.com/pixelPower/shorts/gNWxI8kDZ5fPRNOgpSEm/banner.png)](https://zoskycube.com/pixelPower/session?id=gNWxI8kDZ5fPRNOgpSEm)
 [![2026-09-10 - Astronaut's Dawn: Ashkey's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/SkACMnFzcEBLgT5ZNeg2/banner.png)](https://zoskycube.com/pixelPower/session?id=SkACMnFzcEBLgT5ZNeg2)
 [![2026-09-09 - Dusty Epoch: Petcock's Frosty Revelation](https://shorts.zoskycube.com/pixelPower/shorts/y8g21ODZtMUTGpXfkXNF/banner.png)](https://zoskycube.com/pixelPower/session?id=y8g21ODZtMUTGpXfkXNF)
 [![2026-09-09 - Raffled Puppy, Karma, and a Crooked Castle](https://shorts.zoskycube.com/pixelPower/shorts/L88yl8dvsxg9d0Wms8BU/banner.png)](https://zoskycube.com/pixelPower/session?id=L88yl8dvsxg9d0Wms8BU)
