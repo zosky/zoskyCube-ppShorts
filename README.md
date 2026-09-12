@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-12 - Anarchy's Echo: The Control Room's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/XKjXJIJAJ9kPN2y8xlsY/banner.png)](https://zoskycube.com/pixelPower/session?id=XKjXJIJAJ9kPN2y8xlsY)
 [![2026-09-12 - Compass Buckles, Oni Unleashes Power](https://shorts.zoskycube.com/pixelPower/shorts/SNUv9RBCZrehxV9FgjVN/banner.png)](https://zoskycube.com/pixelPower/session?id=SNUv9RBCZrehxV9FgjVN)
 [![2026-09-11 - Typhoon City's Mechanic Comeback](https://shorts.zoskycube.com/pixelPower/shorts/n9J00yeHKY4NK8LC9Wdn/banner.png)](https://zoskycube.com/pixelPower/session?id=n9J00yeHKY4NK8LC9Wdn)
 [![2026-09-11 - Wayside Intellect: Fiefdom's Jewels](https://shorts.zoskycube.com/pixelPower/shorts/gNWxI8kDZ5fPRNOgpSEm/banner.png)](https://zoskycube.com/pixelPower/session?id=gNWxI8kDZ5fPRNOgpSEm)
