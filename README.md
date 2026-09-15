@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-15 - Archway's Echo: Banker's Betrayal Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/EPKe3qapNfWDNl3m4Mdc/banner.png)](https://zoskycube.com/pixelPower/session?id=EPKe3qapNfWDNl3m4Mdc)
 [![2026-09-14 - Asymmetric Braids & The Volva's Secret](https://shorts.zoskycube.com/pixelPower/shorts/nZo8QjWdh0rRIKX8uYCO/banner.png)](https://zoskycube.com/pixelPower/session?id=nZo8QjWdh0rRIKX8uYCO)
 [![2026-09-13 - Desert Chamber's Nascent Power Unleashed](https://shorts.zoskycube.com/pixelPower/shorts/ayLmS4Fnhqm1eM5OkvAu/banner.png)](https://zoskycube.com/pixelPower/session?id=ayLmS4Fnhqm1eM5OkvAu)
 [![2026-09-12 - Portal Escape: Alchemist's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/WYfT3NAptP329E9UDHQ1/banner.png)](https://zoskycube.com/pixelPower/session?id=WYfT3NAptP329E9UDHQ1)
