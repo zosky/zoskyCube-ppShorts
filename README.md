@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-16 - Twilight Jogger: Federation's Unfolding Secrets](https://shorts.zoskycube.com/pixelPower/shorts/LFjWrxUKmUMmZKSqmLRf/banner.png)](https://zoskycube.com/pixelPower/session?id=LFjWrxUKmUMmZKSqmLRf)
 [![2026-09-15 - Whiskey, Beasts, and a Caustic Waterfall](https://shorts.zoskycube.com/pixelPower/shorts/id3WxkeGa3Iu0E4keyL5/banner.png)](https://zoskycube.com/pixelPower/session?id=id3WxkeGa3Iu0E4keyL5)
 [![2026-09-15 - Archway's Echo: Banker's Betrayal Unveiled](https://shorts.zoskycube.com/pixelPower/shorts/EPKe3qapNfWDNl3m4Mdc/banner.png)](https://zoskycube.com/pixelPower/session?id=EPKe3qapNfWDNl3m4Mdc)
 [![2026-09-14 - Asymmetric Braids & The Volva's Secret](https://shorts.zoskycube.com/pixelPower/shorts/nZo8QjWdh0rRIKX8uYCO/banner.png)](https://zoskycube.com/pixelPower/session?id=nZo8QjWdh0rRIKX8uYCO)
