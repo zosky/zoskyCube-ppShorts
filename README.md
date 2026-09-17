@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-17 - Widow's Vulpine Vision Unmasks Empires](https://shorts.zoskycube.com/pixelPower/shorts/fzZSUKWIIzJxcAHalZlA/banner.png)](https://zoskycube.com/pixelPower/session?id=fzZSUKWIIzJxcAHalZlA)
 [![2026-09-17 - Compass Points to Docks' Secret](https://shorts.zoskycube.com/pixelPower/shorts/fntaXA5Zb1chMzkQSeuJ/banner.png)](https://zoskycube.com/pixelPower/session?id=fntaXA5Zb1chMzkQSeuJ)
 [![2026-09-17 - Unbiased Intel: Mechanic's Volatile Jumpstart](https://shorts.zoskycube.com/pixelPower/shorts/ixYSh67XZ49nBjvNBwgo/banner.png)](https://zoskycube.com/pixelPower/session?id=ixYSh67XZ49nBjvNBwgo)
 [![2026-09-16 - Gladiator's Rebirth: From Debris to Bloom](https://shorts.zoskycube.com/pixelPower/shorts/CHz2GJ4FSAawS6Y3DOfl/banner.png)](https://zoskycube.com/pixelPower/session?id=CHz2GJ4FSAawS6Y3DOfl)
