@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-17 - Unbiased Intel: Mechanic's Volatile Jumpstart](https://shorts.zoskycube.com/pixelPower/shorts/ixYSh67XZ49nBjvNBwgo/banner.png)](https://zoskycube.com/pixelPower/session?id=ixYSh67XZ49nBjvNBwgo)
 [![2026-09-16 - Gladiator's Rebirth: From Debris to Bloom](https://shorts.zoskycube.com/pixelPower/shorts/CHz2GJ4FSAawS6Y3DOfl/banner.png)](https://zoskycube.com/pixelPower/session?id=CHz2GJ4FSAawS6Y3DOfl)
 [![2026-09-16 - Unlatched Picnic, Winter Museum, Joystick Climax](https://shorts.zoskycube.com/pixelPower/shorts/hsrDt5H3HvQ3ECjZGTvx/banner.png)](https://zoskycube.com/pixelPower/session?id=hsrDt5H3HvQ3ECjZGTvx)
 [![2026-09-16 - Twilight Jogger: Federation's Unfolding Secrets](https://shorts.zoskycube.com/pixelPower/shorts/LFjWrxUKmUMmZKSqmLRf/banner.png)](https://zoskycube.com/pixelPower/session?id=LFjWrxUKmUMmZKSqmLRf)
