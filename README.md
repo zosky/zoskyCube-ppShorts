@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-19 - Skyjacked Oilrig: The Braided Teen's Gambit](https://shorts.zoskycube.com/pixelPower/shorts/XIx8ERkxvOa8A6yVbNcE/banner.png)](https://zoskycube.com/pixelPower/session?id=XIx8ERkxvOa8A6yVbNcE)
 [![2026-09-18 - Cyberpunk Outcast's Final Stand](https://shorts.zoskycube.com/pixelPower/shorts/LvoH836ku344cl0cbf8r/banner.png)](https://zoskycube.com/pixelPower/session?id=LvoH836ku344cl0cbf8r)
 [![2026-09-18 - Dreadnaught Deletion: Heir's Ultimate Victory](https://shorts.zoskycube.com/pixelPower/shorts/T8vIje3iE5TsC7tymaC7/banner.png)](https://zoskycube.com/pixelPower/session?id=T8vIje3iE5TsC7tymaC7)
 [![2026-09-18 - Unbound Ascent: A Grandfather's Legacy](https://shorts.zoskycube.com/pixelPower/shorts/eRW7k0ihgrQW0k8AqQ6y/banner.png)](https://zoskycube.com/pixelPower/session?id=eRW7k0ihgrQW0k8AqQ6y)
