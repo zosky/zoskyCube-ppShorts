@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-21 - Offworld Outpost's Nacre Artifact](https://shorts.zoskycube.com/pixelPower/shorts/1BBnhWhvHhy4WRQ7TJDo/banner.png)](https://zoskycube.com/pixelPower/session?id=1BBnhWhvHhy4WRQ7TJDo)
 [![2026-09-21 - Eclipsed Byway to Exoplanet Nova](https://shorts.zoskycube.com/pixelPower/shorts/tIBBEVvAxoqIDkTSwDa7/banner.png)](https://zoskycube.com/pixelPower/session?id=tIBBEVvAxoqIDkTSwDa7)
 [![2026-09-21 - Outlaw's Gears: County Reshaped](https://shorts.zoskycube.com/pixelPower/shorts/PE6JqYKVbzK8EHoJXwVb/banner.png)](https://zoskycube.com/pixelPower/session?id=PE6JqYKVbzK8EHoJXwVb)
 [![2026-09-20 - Cyborg Salvage: Chroma & Catafalques](https://shorts.zoskycube.com/pixelPower/shorts/mfg54vPHPNi3HRYkE7Nl/banner.png)](https://zoskycube.com/pixelPower/session?id=mfg54vPHPNi3HRYkE7Nl)
