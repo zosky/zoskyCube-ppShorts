@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-22 - Garden of Cycles: The Echidna's Lockbox](https://shorts.zoskycube.com/pixelPower/shorts/bnQHIkZ3qZXeHZ8aYcA6/banner.png)](https://zoskycube.com/pixelPower/session?id=bnQHIkZ3qZXeHZ8aYcA6)
 [![2026-09-22 - Neophyte's Gambit: Narrows & Nectar](https://shorts.zoskycube.com/pixelPower/shorts/lJ7nlij8m3CibTnsEGGa/banner.png)](https://zoskycube.com/pixelPower/session?id=lJ7nlij8m3CibTnsEGGa)
 [![2026-09-22 - Wasteland Mechanic's Mayflower Salvage](https://shorts.zoskycube.com/pixelPower/shorts/2L5zmwV4keJl73WU5Djl/banner.png)](https://zoskycube.com/pixelPower/session?id=2L5zmwV4keJl73WU5Djl)
 [![2026-09-21 - Offworld Outpost's Nacre Artifact](https://shorts.zoskycube.com/pixelPower/shorts/1BBnhWhvHhy4WRQ7TJDo/banner.png)](https://zoskycube.com/pixelPower/session?id=1BBnhWhvHhy4WRQ7TJDo)
