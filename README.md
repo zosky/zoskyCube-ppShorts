@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-26 - Earthshaker's Fall: Glitchy Uakari's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/9azCweEvBOuvixUn8jPC/banner.png)](https://zoskycube.com/pixelPower/session?id=9azCweEvBOuvixUn8jPC)
 [![2026-09-26 - Viaduct Verdict: Brummagem Truth Revealed](https://shorts.zoskycube.com/pixelPower/shorts/7Tn0nf9uHU4EjTh5ruqc/banner.png)](https://zoskycube.com/pixelPower/session?id=7Tn0nf9uHU4EjTh5ruqc)
 [![2026-09-22 - Garden of Cycles: The Echidna's Lockbox](https://shorts.zoskycube.com/pixelPower/shorts/bnQHIkZ3qZXeHZ8aYcA6/banner.png)](https://zoskycube.com/pixelPower/session?id=bnQHIkZ3qZXeHZ8aYcA6)
 [![2026-09-22 - Neophyte's Gambit: Narrows & Nectar](https://shorts.zoskycube.com/pixelPower/shorts/lJ7nlij8m3CibTnsEGGa/banner.png)](https://zoskycube.com/pixelPower/session?id=lJ7nlij8m3CibTnsEGGa)
