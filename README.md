@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-27 - Wagoner's Unsolved Fortification](https://shorts.zoskycube.com/pixelPower/shorts/T6rEgTH1Nk01xl10UM9u/banner.png)](https://zoskycube.com/pixelPower/session?id=T6rEgTH1Nk01xl10UM9u)
 [![2026-09-27 - Desert's Glimmer, Forest's Embrace](https://shorts.zoskycube.com/pixelPower/shorts/aq3q1bMGlhiPAPeJU3T1/banner.png)](https://zoskycube.com/pixelPower/session?id=aq3q1bMGlhiPAPeJU3T1)
 [![2026-09-26 - Earthshaker's Fall: Glitchy Uakari's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/9azCweEvBOuvixUn8jPC/banner.png)](https://zoskycube.com/pixelPower/session?id=9azCweEvBOuvixUn8jPC)
 [![2026-09-26 - Viaduct Verdict: Brummagem Truth Revealed](https://shorts.zoskycube.com/pixelPower/shorts/7Tn0nf9uHU4EjTh5ruqc/banner.png)](https://zoskycube.com/pixelPower/session?id=7Tn0nf9uHU4EjTh5ruqc)
