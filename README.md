@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-28 - Nightwalker's Ultimatum: System Overhaul](https://shorts.zoskycube.com/pixelPower/shorts/0ZjXHut9tvfAJlibTqQV/banner.png)](https://zoskycube.com/pixelPower/session?id=0ZjXHut9tvfAJlibTqQV)
 [![2026-09-28 - Paniolo's Path: Malfunction to Clarity](https://shorts.zoskycube.com/pixelPower/shorts/8Nw4GXkUUfCOgHbsU325/banner.png)](https://zoskycube.com/pixelPower/session?id=8Nw4GXkUUfCOgHbsU325)
 [![2026-09-27 - Wagoner's Unsolved Fortification](https://shorts.zoskycube.com/pixelPower/shorts/T6rEgTH1Nk01xl10UM9u/banner.png)](https://zoskycube.com/pixelPower/session?id=T6rEgTH1Nk01xl10UM9u)
 [![2026-09-27 - Desert's Glimmer, Forest's Embrace](https://shorts.zoskycube.com/pixelPower/shorts/aq3q1bMGlhiPAPeJU3T1/banner.png)](https://zoskycube.com/pixelPower/session?id=aq3q1bMGlhiPAPeJU3T1)
