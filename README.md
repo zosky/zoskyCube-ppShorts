@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-29 - Phoenix Rocket Rises from the Octagon Island](https://shorts.zoskycube.com/pixelPower/shorts/L6NvZy2Be8G87YQXGkyP/banner.png)](https://zoskycube.com/pixelPower/session?id=L6NvZy2Be8G87YQXGkyP)
 [![2026-09-29 - Sunset Robbery, Cottage Escape, Keyboard Echoes](https://shorts.zoskycube.com/pixelPower/shorts/NnezQdUQw7gW965Oaznb/banner.png)](https://zoskycube.com/pixelPower/session?id=NnezQdUQw7gW965Oaznb)
 [![2026-09-28 - The Platinum-Amber Descent](https://shorts.zoskycube.com/pixelPower/shorts/JQfNNq2726cEkYrWzvp7/banner.png)](https://zoskycube.com/pixelPower/session?id=JQfNNq2726cEkYrWzvp7)
 [![2026-09-28 - Nightwalker's Ultimatum: System Overhaul](https://shorts.zoskycube.com/pixelPower/shorts/0ZjXHut9tvfAJlibTqQV/banner.png)](https://zoskycube.com/pixelPower/session?id=0ZjXHut9tvfAJlibTqQV)
