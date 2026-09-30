@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-09-30 - Abyss and Muffin: The Colony's New Cyclus](https://shorts.zoskycube.com/pixelPower/shorts/BqEIVnScFv3o8qqz6l8C/banner.png)](https://zoskycube.com/pixelPower/session?id=BqEIVnScFv3o8qqz6l8C)
 [![2026-09-29 - Junkyard Mechanic's Underrealm Ascent](https://shorts.zoskycube.com/pixelPower/shorts/nPpmx0HmnH8m6EQj8TEb/banner.png)](https://zoskycube.com/pixelPower/session?id=nPpmx0HmnH8m6EQj8TEb)
 [![2026-09-29 - Phoenix Rocket Rises from the Octagon Island](https://shorts.zoskycube.com/pixelPower/shorts/L6NvZy2Be8G87YQXGkyP/banner.png)](https://zoskycube.com/pixelPower/session?id=L6NvZy2Be8G87YQXGkyP)
 [![2026-09-29 - Sunset Robbery, Cottage Escape, Keyboard Echoes](https://shorts.zoskycube.com/pixelPower/shorts/NnezQdUQw7gW965Oaznb/banner.png)](https://zoskycube.com/pixelPower/session?id=NnezQdUQw7gW965Oaznb)
