@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-01 - Arctic Vigil: The Outlaw Omnibus](https://shorts.zoskycube.com/pixelPower/shorts/2GaZbWu6lnBZSighMkgS/banner.png)](https://zoskycube.com/pixelPower/session?id=2GaZbWu6lnBZSighMkgS)
 [![2026-09-30 - Kallikrein's Gambit: The Gryphon's Ascent](https://shorts.zoskycube.com/pixelPower/shorts/sM0ce8CH81LQOcH8vRgH/banner.png)](https://zoskycube.com/pixelPower/session?id=sM0ce8CH81LQOcH8vRgH)
 [![2026-09-30 - The Drifter's Cert: Winch, Handcuff, Vote](https://shorts.zoskycube.com/pixelPower/shorts/OHbQWTKL8WwOUeYAxY36/banner.png)](https://zoskycube.com/pixelPower/session?id=OHbQWTKL8WwOUeYAxY36)
 [![2026-09-30 - Abyss and Muffin: The Colony's New Cyclus](https://shorts.zoskycube.com/pixelPower/shorts/BqEIVnScFv3o8qqz6l8C/banner.png)](https://zoskycube.com/pixelPower/session?id=BqEIVnScFv3o8qqz6l8C)
