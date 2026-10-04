@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-04 - Braided Mechanic's Escape: City to Sky](https://shorts.zoskycube.com/pixelPower/shorts/5DqQ5Va0af7wAFsi6bXT/banner.png)](https://zoskycube.com/pixelPower/session?id=5DqQ5Va0af7wAFsi6bXT)
 [![2026-10-03 - Writhen Skies, Rejacketed Future](https://shorts.zoskycube.com/pixelPower/shorts/QjLpBmavWi0fgKbqUcXJ/banner.png)](https://zoskycube.com/pixelPower/session?id=QjLpBmavWi0fgKbqUcXJ)
 [![2026-10-02 - Old Uncles, Martian Echoes, and a Prototype Shift](https://shorts.zoskycube.com/pixelPower/shorts/CZENsaDYl1ciSsHx5Tkv/banner.png)](https://zoskycube.com/pixelPower/session?id=CZENsaDYl1ciSsHx5Tkv)
 [![2026-10-01 - Arctic Vigil: The Outlaw Omnibus](https://shorts.zoskycube.com/pixelPower/shorts/2GaZbWu6lnBZSighMkgS/banner.png)](https://zoskycube.com/pixelPower/session?id=2GaZbWu6lnBZSighMkgS)
