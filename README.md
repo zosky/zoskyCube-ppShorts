@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-06 - Canyon Nanobot: A Mechanist's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/OH89u0GtdV7ltb6iZghN/banner.png)](https://zoskycube.com/pixelPower/session?id=OH89u0GtdV7ltb6iZghN)
 [![2026-10-05 - Desert's Electric Glow](https://shorts.zoskycube.com/pixelPower/shorts/qApHX3rDp32PZCBfesHA/banner.png)](https://zoskycube.com/pixelPower/session?id=qApHX3rDp32PZCBfesHA)
 [![2026-10-04 - Braided Mechanic's Escape: City to Sky](https://shorts.zoskycube.com/pixelPower/shorts/5DqQ5Va0af7wAFsi6bXT/banner.png)](https://zoskycube.com/pixelPower/session?id=5DqQ5Va0af7wAFsi6bXT)
 [![2026-10-03 - Writhen Skies, Rejacketed Future](https://shorts.zoskycube.com/pixelPower/shorts/QjLpBmavWi0fgKbqUcXJ/banner.png)](https://zoskycube.com/pixelPower/session?id=QjLpBmavWi0fgKbqUcXJ)
