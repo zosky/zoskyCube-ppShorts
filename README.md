@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-08 - Twilight Machines, Bivalve Harbors, Blacken Truth](https://shorts.zoskycube.com/pixelPower/shorts/mmSYMmR73LyNcMDuAbkJ/banner.png)](https://zoskycube.com/pixelPower/session?id=mmSYMmR73LyNcMDuAbkJ)
 [![2026-10-07 - Nebula Wanderer's Paradoxical Escape](https://shorts.zoskycube.com/pixelPower/shorts/hCIAZcob6wxpRz0LH7TF/banner.png)](https://zoskycube.com/pixelPower/session?id=hCIAZcob6wxpRz0LH7TF)
 [![2026-10-06 - Canyon Nanobot: A Mechanist's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/OH89u0GtdV7ltb6iZghN/banner.png)](https://zoskycube.com/pixelPower/session?id=OH89u0GtdV7ltb6iZghN)
 [![2026-10-05 - Desert's Electric Glow](https://shorts.zoskycube.com/pixelPower/shorts/qApHX3rDp32PZCBfesHA/banner.png)](https://zoskycube.com/pixelPower/session?id=qApHX3rDp32PZCBfesHA)
