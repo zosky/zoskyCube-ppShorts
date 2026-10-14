@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-14 - Road to Custody: A Neon Battle](https://shorts.zoskycube.com/pixelPower/shorts/GBP4ypiirVF3t8Z6ncEU/banner.png)](https://zoskycube.com/pixelPower/session?id=GBP4ypiirVF3t8Z6ncEU)
 [![2026-10-12 - Outlander's Emerald Hexagon Legacy](https://shorts.zoskycube.com/pixelPower/shorts/CDKYPNmsZGEHGcx47Jvx/banner.png)](https://zoskycube.com/pixelPower/session?id=CDKYPNmsZGEHGcx47Jvx)
 [![2026-10-11 - Imperial Collapse: Greenockite Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/SHLkLLKcQ0uyxQRqYltj/banner.png)](https://zoskycube.com/pixelPower/session?id=SHLkLLKcQ0uyxQRqYltj)
 [![2026-10-10 - Wormhole Unstuck: Gauffer's Rise](https://shorts.zoskycube.com/pixelPower/shorts/kx6y8R2zOdW6ZwwhtcNH/banner.png)](https://zoskycube.com/pixelPower/session?id=kx6y8R2zOdW6ZwwhtcNH)
