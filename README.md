@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-18 - Junking Cyphers, Altered Androids, New Orfray](https://shorts.zoskycube.com/pixelPower/shorts/4NrZb5dJ4UhVp2X1CQpD/banner.png)](https://zoskycube.com/pixelPower/session?id=4NrZb5dJ4UhVp2X1CQpD)
 [![2026-10-17 - Thaumaturge's Cinder-Kicked Journey](https://shorts.zoskycube.com/pixelPower/shorts/prpW5xSoH2m1btX2OHSJ/banner.png)](https://zoskycube.com/pixelPower/session?id=prpW5xSoH2m1btX2OHSJ)
 [![2026-10-16 - Rockaways Rollercoaster: Amethyst & Armlocks](https://shorts.zoskycube.com/pixelPower/shorts/zcNYagbhRZXhola5FM48/banner.png)](https://zoskycube.com/pixelPower/session?id=zcNYagbhRZXhola5FM48)
 [![2026-10-15 - Indigo Sun: Scrapyard's Untold Potential](https://shorts.zoskycube.com/pixelPower/shorts/9xgnBifLxHBLwf8u5n8p/banner.png)](https://zoskycube.com/pixelPower/session?id=9xgnBifLxHBLwf8u5n8p)
