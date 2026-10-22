@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-22 - Canyon Scavenger's Glitchy Empire](https://shorts.zoskycube.com/pixelPower/shorts/zUZYoIMIBVx5RyPk28pk/banner.png)](https://zoskycube.com/pixelPower/session?id=zUZYoIMIBVx5RyPk28pk)
 [![2026-10-21 - Bunker's Gate: The Mechanic's Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/vXQUOhUMSfrENbQH7lVL/banner.png)](https://zoskycube.com/pixelPower/session?id=vXQUOhUMSfrENbQH7lVL)
 [![2026-10-20 - Occult Lockers: The Turnip Jukebox Reckoning](https://shorts.zoskycube.com/pixelPower/shorts/tH2k5VY1eJImf1RdDF5S/banner.png)](https://zoskycube.com/pixelPower/session?id=tH2k5VY1eJImf1RdDF5S)
 [![2026-10-19 - Unarmed, Unjammed: The Backblock's New Face](https://shorts.zoskycube.com/pixelPower/shorts/53Pg8D3Rrg7nwC0UHFQW/banner.png)](https://zoskycube.com/pixelPower/session?id=53Pg8D3Rrg7nwC0UHFQW)
