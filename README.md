@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-25 - Rococo Vestige: The Opal's Call](https://shorts.zoskycube.com/pixelPower/shorts/WqWsnWGuDdNYRYH9hogu/banner.png)](https://zoskycube.com/pixelPower/session?id=WqWsnWGuDdNYRYH9hogu)
 [![2026-10-24 - Hyperspace Eviction: The Ferryboat's Last Ride](https://shorts.zoskycube.com/pixelPower/shorts/bMoPmVgA4Vzy3Kq8TMVq/banner.png)](https://zoskycube.com/pixelPower/session?id=bMoPmVgA4Vzy3Kq8TMVq)
 [![2026-10-23 - Drachma's Secret: Canyon's New Bloom](https://shorts.zoskycube.com/pixelPower/shorts/9joxwM7qJNxFwvhxkoLI/banner.png)](https://zoskycube.com/pixelPower/session?id=9joxwM7qJNxFwvhxkoLI)
 [![2026-10-22 - Canyon Scavenger's Glitchy Empire](https://shorts.zoskycube.com/pixelPower/shorts/zUZYoIMIBVx5RyPk28pk/banner.png)](https://zoskycube.com/pixelPower/session?id=zUZYoIMIBVx5RyPk28pk)
