@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-28 - Anfractuous Echoes: Compass & Crater](https://shorts.zoskycube.com/pixelPower/shorts/OIqDdmlzovKFBruTlaRb/banner.png)](https://zoskycube.com/pixelPower/session?id=OIqDdmlzovKFBruTlaRb)
 [![2026-10-26 - Unicorns, Octopi, and a Teenager's Urgent Fix](https://shorts.zoskycube.com/pixelPower/shorts/h5ZikEsvhgWE7KJImz0i/banner.png)](https://zoskycube.com/pixelPower/session?id=h5ZikEsvhgWE7KJImz0i)
 [![2026-10-25 - Rococo Vestige: The Opal's Call](https://shorts.zoskycube.com/pixelPower/shorts/WqWsnWGuDdNYRYH9hogu/banner.png)](https://zoskycube.com/pixelPower/session?id=WqWsnWGuDdNYRYH9hogu)
 [![2026-10-24 - Hyperspace Eviction: The Ferryboat's Last Ride](https://shorts.zoskycube.com/pixelPower/shorts/bMoPmVgA4Vzy3Kq8TMVq/banner.png)](https://zoskycube.com/pixelPower/session?id=bMoPmVgA4Vzy3Kq8TMVq)
