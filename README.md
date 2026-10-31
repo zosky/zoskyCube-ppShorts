@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-10-31 - Braid & Compass: Canyon's Unchill Redemption](https://shorts.zoskycube.com/pixelPower/shorts/FsoLH0GZuHxLjGPnX5ub/banner.png)](https://zoskycube.com/pixelPower/session?id=FsoLH0GZuHxLjGPnX5ub)
 [![2026-10-30 - Jaggy Chapel, Wallaby Chase, Ark's Injury](https://shorts.zoskycube.com/pixelPower/shorts/0ynHr2HKfdn3dELZSqpQ/banner.png)](https://zoskycube.com/pixelPower/session?id=0ynHr2HKfdn3dELZSqpQ)
 [![2026-10-29 - Enigmatic Harvest: Scythe & Compass](https://shorts.zoskycube.com/pixelPower/shorts/R2FkKxQfeItAV7EaHttX/banner.png)](https://zoskycube.com/pixelPower/session?id=R2FkKxQfeItAV7EaHttX)
 [![2026-10-28 - Anfractuous Echoes: Compass & Crater](https://shorts.zoskycube.com/pixelPower/shorts/OIqDdmlzovKFBruTlaRb/banner.png)](https://zoskycube.com/pixelPower/session?id=OIqDdmlzovKFBruTlaRb)
