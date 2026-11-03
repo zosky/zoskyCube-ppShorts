@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-03 - Rancid Wastes, Visceral Hammers, Velvet Mushroom](https://shorts.zoskycube.com/pixelPower/shorts/0Y1cn6Oq8R5ftcmzfcTS/banner.png)](https://zoskycube.com/pixelPower/session?id=0Y1cn6Oq8R5ftcmzfcTS)
 [![2026-11-02 - The Compass, The Caves, and The Buffalo](https://shorts.zoskycube.com/pixelPower/shorts/yGdIxrItwUSHCtsp4iDX/banner.png)](https://zoskycube.com/pixelPower/session?id=yGdIxrItwUSHCtsp4iDX)
 [![2026-11-01 - Trijets, Treason, and the Ultimate Uppercut](https://shorts.zoskycube.com/pixelPower/shorts/NQeDJAAk3g1XbZ1ixGPJ/banner.png)](https://zoskycube.com/pixelPower/session?id=NQeDJAAk3g1XbZ1ixGPJ)
 [![2026-10-31 - Braid & Compass: Canyon's Unchill Redemption](https://shorts.zoskycube.com/pixelPower/shorts/FsoLH0GZuHxLjGPnX5ub/banner.png)](https://zoskycube.com/pixelPower/session?id=FsoLH0GZuHxLjGPnX5ub)
