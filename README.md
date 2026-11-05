@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-05 - Eclipse Colony: The Junkyard's Last Stand](https://shorts.zoskycube.com/pixelPower/shorts/jpp6gIAQs8Jz5SEdnC9Y/banner.png)](https://zoskycube.com/pixelPower/session?id=jpp6gIAQs8Jz5SEdnC9Y)
 [![2026-11-04 - Braids, Compass, and the Mullah's Graph](https://shorts.zoskycube.com/pixelPower/shorts/HFCa5Ioz17zI2NvEgwvG/banner.png)](https://zoskycube.com/pixelPower/session?id=HFCa5Ioz17zI2NvEgwvG)
 [![2026-11-03 - Rancid Wastes, Visceral Hammers, Velvet Mushroom](https://shorts.zoskycube.com/pixelPower/shorts/0Y1cn6Oq8R5ftcmzfcTS/banner.png)](https://zoskycube.com/pixelPower/session?id=0Y1cn6Oq8R5ftcmzfcTS)
 [![2026-11-02 - The Compass, The Caves, and The Buffalo](https://shorts.zoskycube.com/pixelPower/shorts/yGdIxrItwUSHCtsp4iDX/banner.png)](https://zoskycube.com/pixelPower/session?id=yGdIxrItwUSHCtsp4iDX)
