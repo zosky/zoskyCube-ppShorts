@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-18 - Gerenuk's Shadow: Last Stand in the Cities](https://shorts.zoskycube.com/pixelPower/shorts/J3K3SWueAX5xkNDMbJGA/banner.png)](https://zoskycube.com/pixelPower/session?id=J3K3SWueAX5xkNDMbJGA)
 [![2026-11-17 - Waypoint Uncovered: The Mines of Opals](https://shorts.zoskycube.com/pixelPower/shorts/YYzjo7joL4Ffi1mPbPtp/banner.png)](https://zoskycube.com/pixelPower/session?id=YYzjo7joL4Ffi1mPbPtp)
 [![2026-11-16 - Phoenix Safecracker: Nighttime Lock Thriller](https://shorts.zoskycube.com/pixelPower/shorts/5zQIgOdC3Qs7vKjMZJLI/banner.png)](https://zoskycube.com/pixelPower/session?id=5zQIgOdC3Qs7vKjMZJLI)
 [![2026-11-15 - Canyon Unlocked: A Warlord's Secret](https://shorts.zoskycube.com/pixelPower/shorts/vShffR3CKs3UTDG2TQxY/banner.png)](https://zoskycube.com/pixelPower/session?id=vShffR3CKs3UTDG2TQxY)
