@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-19 - Janky Kitchenette to Transformed Reality](https://shorts.zoskycube.com/pixelPower/shorts/RIvRLqbv5dQ5ETpmV3sW/banner.png)](https://zoskycube.com/pixelPower/session?id=RIvRLqbv5dQ5ETpmV3sW)
 [![2026-11-18 - Gerenuk's Shadow: Last Stand in the Cities](https://shorts.zoskycube.com/pixelPower/shorts/J3K3SWueAX5xkNDMbJGA/banner.png)](https://zoskycube.com/pixelPower/session?id=J3K3SWueAX5xkNDMbJGA)
 [![2026-11-17 - Waypoint Uncovered: The Mines of Opals](https://shorts.zoskycube.com/pixelPower/shorts/YYzjo7joL4Ffi1mPbPtp/banner.png)](https://zoskycube.com/pixelPower/session?id=YYzjo7joL4Ffi1mPbPtp)
 [![2026-11-16 - Phoenix Safecracker: Nighttime Lock Thriller](https://shorts.zoskycube.com/pixelPower/shorts/5zQIgOdC3Qs7vKjMZJLI/banner.png)](https://zoskycube.com/pixelPower/session?id=5zQIgOdC3Qs7vKjMZJLI)
