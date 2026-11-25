@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-25 - Trucker Defies Cloud's Icky Edict](https://shorts.zoskycube.com/pixelPower/shorts/wdCNSrQkYaSQnyN7HD87/banner.png)](https://zoskycube.com/pixelPower/session?id=wdCNSrQkYaSQnyN7HD87)
 [![2026-11-24 - Labyrinth's Shadow, Justice's Light](https://shorts.zoskycube.com/pixelPower/shorts/wJO3GSor5wNn2bwToAPF/banner.png)](https://zoskycube.com/pixelPower/session?id=wJO3GSor5wNn2bwToAPF)
 [![2026-11-23 - Smoggy Opera, Jade Compass, Glaced Packet](https://shorts.zoskycube.com/pixelPower/shorts/d5FiQamvmV8Qx5s2xY9z/banner.png)](https://zoskycube.com/pixelPower/session?id=d5FiQamvmV8Qx5s2xY9z)
 [![2026-11-21 - Braids, Compass, and a Blooming World](https://shorts.zoskycube.com/pixelPower/shorts/iGLXh8ZgTZ71Zf2BzeN0/banner.png)](https://zoskycube.com/pixelPower/session?id=iGLXh8ZgTZ71Zf2BzeN0)
