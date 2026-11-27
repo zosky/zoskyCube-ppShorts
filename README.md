@@ -1,6 +1,7 @@
 # zoskyCube-ppShorts
 Archive storage for [zoskyCube PixelPower short](https://zoskycube.com/pixelPower/), served with GitHub Pages (you should really go to [zoskycube.com/pixelPower/](https://zoskycube.com/pixelPower/))
 
+[![2026-11-27 - Bluffs, Bongs, and Braids: A Desert Whisper](https://shorts.zoskycube.com/pixelPower/shorts/8Y4EN6SRNOXccx0RW3iu/banner.png)](https://zoskycube.com/pixelPower/session?id=8Y4EN6SRNOXccx0RW3iu)
 [![2026-11-26 - Huntress Ascends: Gears, Venom, and Demons](https://shorts.zoskycube.com/pixelPower/shorts/jnbfBzey6xs1Wf62kBGs/banner.png)](https://zoskycube.com/pixelPower/session?id=jnbfBzey6xs1Wf62kBGs)
 [![2026-11-25 - Trucker Defies Cloud's Icky Edict](https://shorts.zoskycube.com/pixelPower/shorts/wdCNSrQkYaSQnyN7HD87/banner.png)](https://zoskycube.com/pixelPower/session?id=wdCNSrQkYaSQnyN7HD87)
 [![2026-11-24 - Labyrinth's Shadow, Justice's Light](https://shorts.zoskycube.com/pixelPower/shorts/wJO3GSor5wNn2bwToAPF/banner.png)](https://zoskycube.com/pixelPower/session?id=wJO3GSor5wNn2bwToAPF)
